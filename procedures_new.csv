@@ -1,0 +1,5 @@
+id_procedure,procedure_name,invasion_level,danger_level
+1,biological_treatment,1,1
+2,radiation,0,2
+3,chemothearapy,1,2
+4,toumer_removal_serguray,2,3

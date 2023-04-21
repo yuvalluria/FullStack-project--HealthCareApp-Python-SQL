@@ -1,0 +1,1001 @@
+patient_id,first_name,last_name,gender,date_of_birth,Cities,BMI,BP_SYS,BP_Dia,COPD,smoking,hereditary_retinoblastoma,Tuberculosis,Pulmonary_fibrosis,sick
+387816646,Eli,Khalifa,male,1969-07-13,Haifa,15,104,58,0,0,0,0,0,0
+236614313,Yiska,Moyal,female,1946-10-03,Rishon_LeZion,15,121,102,1,1,0,0,1,0
+347864617,Aharon,Yerushalmi,male,1990-01-22,Jerusalem,24,96,77,0,1,0,0,1,0
+258699842,Anat,Rosenberg,female,1924-01-15,Ashdod,15,135,110,0,1,1,1,0,0
+382896410,Reuven,Shoshan,male,1983-11-22,Holon,29,110,106,1,1,1,1,1,1
+219948395,Chana,Mizrachi,female,1925-11-26,Petah_Tikva,17,82,111,1,1,1,1,1,0
+305083837,Shmuel,Biran,male,1964-01-02,Bnei_Brak,18,108,102,0,1,0,1,1,0
+337758792,Neta,Carmeli,female,1986-10-25,Jerusalem,17,117,80,1,1,1,1,0,0
+286720988,Natan,Bokobza,male,1998-11-30,Holon,30,98,76,1,1,1,0,0,0
+278640000,Nira,Efrati,female,1965-09-18,Be'er_Sheva,27,104,68,0,1,1,1,1,1
+390546778,Yehuda,Dayan,male,2007-08-24,Jerusalem,29,117,107,1,1,1,0,0,1
+376855101,Hadar,Shamama,female,1948-09-11,Be'er_Sheva,20,136,58,0,1,0,1,0,1
+243991356,Eran,Shiloni,male,1979-01-03,Jerusalem,19,121,72,1,1,0,0,0,1
+266770941,Galit,Huri,female,1993-04-24,Haifa,16,104,96,1,1,1,1,1,0
+283249118,Yosef,Nissan,male,2001-07-09,Haifa,16,104,109,0,1,0,1,1,1
+364856418,Noa,Avraham,female,1951-11-14,Bnei_Brak,29,136,76,0,1,1,0,0,1
+372922357,Moshe,Biton,male,1959-06-16,Tel_Aviv-Yafo,20,104,74,0,1,1,1,1,0
+234484466,Efrat,Elbaz,female,1978-06-06,Rishon_LeZion,20,122,77,0,1,0,0,1,1
+347860619,Reuven,Kamisa,male,2014-07-24,Ashdod,24,127,83,1,1,0,1,1,1
+379174662,Miri,Rosenberg,female,1960-10-08,Haifa,26,117,78,0,1,0,0,1,1
+293239026,Natan,Shemesh,male,1933-12-11,Tel_Aviv-Yafo,23,86,73,0,1,0,0,0,1
+217672968,Dafna,Bokobza,female,1949-07-23,Netanya,21,91,90,1,1,0,1,1,1
+334102659,Uri,Kaslassi,male,2019-09-18,Bnei_Brak,16,84,73,0,1,0,0,0,0
+247120009,Noa,Hakim,female,1982-03-23,Petah_Tikva,27,101,83,1,1,1,1,0,0
+293019688,Yigal,Sason,male,1948-03-11,Holon,23,136,88,1,1,0,1,0,3
+290641319,Efrat,Bokobza,female,1969-06-19,Netanya,29,126,73,1,1,1,0,0,1
+256032804,Shai,Levi,male,2008-09-25,Petah_Tikva,27,133,109,1,1,0,1,0,3
+205606101,Leah,Shiloni,female,2003-08-24,Tel_Aviv-Yafo,23,82,87,1,1,0,0,1,3
+212079964,Yigal,Ohayon,male,1997-02-20,Haifa,23,104,63,1,1,1,1,0,3
+255251407,Rivka,Asulin,female,1989-01-25,Be'er_Sheva,20,110,109,1,1,0,1,0,1
+254096314,Shlomo,Kaslassi,male,1926-06-14,Rishon_LeZion,18,108,92,0,1,1,0,1,1
+353853221,Hagit,Timsit,female,1999-02-21,Netanya,22,99,109,0,1,0,0,0,1
+310635673,Nir,Yishai,male,1952-11-06,Bnei_Brak,18,99,69,1,1,1,0,0,0
+297356238,Chana,Kahana,female,1950-12-07,Holon,19,135,96,1,1,0,1,1,1
+208522737,Itai,Alouf,male,1972-07-23,Petah_Tikva,22,96,78,0,1,1,0,0,1
+368351219,Rachel,Elmaliah,female,1979-11-01,Netanya,22,115,109,1,1,1,1,0,1
+233315996,Yehuda,Timsit,male,1934-10-30,Tel_Aviv-Yafo,16,104,107,0,1,1,0,1,0
+265293165,Malka,Shoshan,female,1922-06-02,Ashdod,22,136,78,0,1,1,0,0,0
+231103886,Haim,Huri,male,1932-04-23,Ashdod,24,122,117,0,1,1,1,0,0
+215345699,Dana,Levi,female,1921-05-30,Holon,22,96,63,1,1,1,0,1,0
+328318302,Zvi,Shamama,male,1950-03-29,Netanya,18,104,101,1,1,1,0,0,0
+270533945,Yiska,Rosenberg,female,2017-09-09,Holon,16,104,106,1,1,0,1,0,2
+389158327,Eli,Peretz,male,1976-05-19,Netanya,20,94,67,1,1,0,1,0,0
+338311393,Eden,Sabag,female,2001-09-08,Haifa,29,99,108,0,1,0,1,0,2
+315605259,Eli,Shemesh,male,1992-09-17,Petah_Tikva,17,138,106,1,1,1,0,0,1
+383971182,Hagit,Salomon,female,2015-09-02,Jerusalem,18,132,107,0,1,1,0,1,1
+333800328,Avraham,Nissan,male,1946-10-30,Netanya,16,115,63,0,1,1,1,0,1
+339405227,Sigal,Kamisa,female,1968-07-07,Ashdod,30,105,68,0,1,0,0,0,1
+389024224,Yisrael,Shoshan,male,2011-10-28,Be'er_Sheva,27,91,70,0,1,0,0,0,1
+336065757,Lilach,Kfir,female,1934-01-21,Petah_Tikva,29,137,85,0,1,1,1,0,1
+373032776,Gershon,Gavriel,male,1957-04-17,Jerusalem,16,126,85,1,1,1,0,1,0
+330792519,Yiska,Saidoff,female,2004-11-15,Ashdod,23,104,109,0,1,0,1,1,0
+208873968,Uri,Hakim,male,1945-03-13,Holon,26,126,80,0,1,0,1,0,0
+254699833,Nira,Eliyahu,female,1947-07-17,Netanya,29,94,62,1,1,0,1,1,1
+294267212,Haim,Saada,male,1942-09-05,Netanya,21,132,73,0,1,1,1,0,0
+202946905,Batya,Lerner,female,1955-03-15,Jerusalem,21,117,107,1,1,0,0,1,1
+320363636,Shimon,Golan,male,2005-10-07,Ashdod,27,126,109,0,1,1,0,1,0
+326427409,Hadar,Gavriel,female,1927-11-19,Haifa,24,106,77,0,1,0,1,0,1
+242859128,Aharon,Moyal,male,1996-05-29,Ashdod,16,132,83,0,1,1,0,0,1
+244048892,Hadar,Elmaliah,female,2006-01-21,Rishon_LeZion,25,104,69,1,1,1,0,1,0
+297472331,Yehoshua,Amsalem,male,1955-02-17,Be'er_Sheva,22,104,80,0,1,1,0,1,0
+327891016,Hodaya,Peretz,female,1968-04-19,Bnei_Brak,30,122,58,1,1,0,0,1,0
+355718123,Shlomo,Kaslassi,male,1944-05-11,Haifa,24,126,69,1,1,1,1,1,1
+296186961,Noa,Huri,female,1935-02-04,Petah_Tikva,21,88,58,0,1,1,1,0,0
+349456662,Daniel,Ohayon,male,1930-02-09,Ashdod,25,139,83,0,1,1,0,1,1
+369627760,Tzipora,Sabbag,female,1930-09-06,Bnei_Brak,23,135,96,1,1,0,1,1,0
+260245871,Natan,Huri,male,1977-01-06,Ashdod,22,98,85,0,1,1,0,1,0
+349713696,Yiska,Davidov,female,1996-05-28,Holon,25,84,111,1,1,0,1,0,1
+312082805,Yaakov,Khalifa,male,2013-07-23,Ashdod,30,136,62,1,1,1,0,1,0
+289044678,Gali,Lerner,female,1978-09-11,Rishon_LeZion,21,133,77,0,1,1,0,0,1
+375259252,Yaniv,Rosenberg,male,2016-11-22,Bnei_Brak,28,114,76,0,1,0,0,1,0
+224603893,Maya,Elbaz,female,1921-06-11,Holon,23,94,83,1,1,1,0,1,0
+365155380,Yisrael,Yehuda,male,1948-05-30,Be'er_Sheva,30,136,87,0,1,1,1,0,0
+243428838,Michal,Alfasi,female,1980-09-22,Rishon_LeZion,19,114,108,1,1,0,1,1,0
+222562461,Daniel,Amir,male,1925-10-30,Ashdod,27,104,72,1,1,1,0,0,1
+204865941,Tamar,Bokobza,female,1956-05-11,Haifa,23,114,106,1,1,0,0,0,1
+231945327,Meir,Gavriel,male,1946-02-28,Petah_Tikva,25,86,74,1,1,1,1,1,0
+262813418,Michal,Amsalem,female,2010-04-08,Jerusalem,24,115,77,0,1,0,0,0,1
+364122068,Aviad,Abuhatzira,male,1970-02-19,Bnei_Brak,17,99,58,1,1,0,1,1,0
+398772415,Liora,Davidov,female,1976-04-13,Jerusalem,16,138,80,1,1,0,1,1,0
+364925638,Aharon,Saidoff,male,1975-08-07,Jerusalem,23,114,72,1,1,0,0,1,0
+200843737,Efrat,Ohayon,female,1973-01-11,Tel_Aviv-Yafo,23,88,96,1,1,0,0,0,1
+305465946,Ariel,Shemesh,male,1994-08-11,Bnei_Brak,28,122,109,0,1,1,0,0,0
+333673207,Shaked,Alouf,female,2011-01-18,Tel_Aviv-Yafo,27,115,109,0,1,0,0,1,0
+353430367,Zvi,Golan,male,1922-02-28,Tel_Aviv-Yafo,17,91,58,0,1,0,0,1,1
+398066996,Leah,Kamisa,female,1981-11-10,Holon,23,98,83,1,1,0,1,0,0
+316977942,Mordechai,Amsalem,male,2002-12-23,Petah_Tikva,22,101,94,1,1,0,0,0,1
+341414900,Gali,Shamama,female,2004-07-14,Holon,25,105,80,0,1,0,1,0,1
+206680461,Avi,Asulin,male,1980-10-04,Tel_Aviv-Yafo,20,115,77,0,1,1,0,1,1
+232412836,Avigail,Alfasi,female,2015-04-19,Haifa,28,113,94,0,1,0,0,0,0
+323875584,Aharon,Malka,male,1983-04-27,Tel_Aviv-Yafo,23,132,67,0,1,0,0,1,0
+279508091,Dikla,Yishai,female,1921-07-06,Netanya,29,101,85,0,1,0,0,1,0
+227142220,Netanel,Kaplan,male,1971-09-10,Jerusalem,16,104,108,1,1,0,0,0,2
+202945615,Miri,Timsit,female,1922-08-01,Jerusalem,16,117,106,0,1,1,1,1,3
+378429854,Zvi,Kadosh,male,1988-10-03,Ashdod,24,135,102,1,1,0,0,1,1
+253054300,Nurit,Yehudai,female,1989-08-07,Tel_Aviv-Yafo,27,104,92,0,1,0,1,1,0
+317599342,Yigal,Timsit,male,1991-05-22,Tel_Aviv-Yafo,25,86,67,1,1,1,0,1,0
+341108334,Noa,Kfir,female,2012-09-27,Haifa,18,88,74,1,1,0,1,0,3
+308621140,Gershon,Yerushalmi,male,1964-11-30,Tel_Aviv-Yafo,29,136,73,1,1,1,1,0,0
+296655915,Tova,Sabbag,female,2017-01-23,Be'er_Sheva,19,83,63,1,1,1,0,1,0
+371800479,Zvi,Kfir,male,1933-05-08,Tel_Aviv-Yafo,19,122,116,0,1,1,0,1,1
+377583310,Lilach,Basson,female,1992-02-06,Tel_Aviv-Yafo,29,91,92,1,1,1,0,1,0
+254611777,Menachem,Yosef,male,2001-09-26,Rishon_LeZion,23,121,65,1,1,1,0,0,1
+263453998,Gali,Salomon,female,2010-02-25,Rishon_LeZion,16,117,83,1,1,0,0,0,1
+231243810,Gadi,Sulimani,male,1973-12-14,Haifa,22,96,78,0,1,0,1,1,0
+301648167,Yifat,Gross,female,2003-10-14,Petah_Tikva,16,117,109,0,1,1,0,1,0
+290239961,Amir,Lavie,male,1998-02-03,Netanya,15,121,73,0,1,1,0,0,0
+334179641,Lilach,Sason,female,1922-03-17,Jerusalem,16,96,107,0,1,0,0,0,1
+292015248,Yaakov,Lavie,male,1990-04-02,Tel_Aviv-Yafo,21,88,83,0,1,0,1,0,1
+216583063,Keren,Elbaz,female,1976-06-26,Rishon_LeZion,27,136,77,1,1,0,0,0,0
+379652291,Eitan,Yishai,male,1920-05-22,Rishon_LeZion,17,109,110,1,1,0,0,0,1
+219911594,Natalie,Salomon,female,1957-04-04,Tel_Aviv-Yafo,21,88,73,0,1,1,0,1,0
+234269613,Ariel,Kahlon,male,1963-12-01,Bnei_Brak,27,127,77,1,1,0,0,1,1
+339292125,Yifat,Yosef,female,1980-12-30,Jerusalem,15,116,88,0,1,1,0,1,2
+337554920,Aharon,Basson,male,1986-06-18,Jerusalem,21,112,111,1,1,0,1,1,1
+328070312,Tova,Timsit,female,2012-03-12,Haifa,29,111,109,1,1,1,0,0,0
+251504032,Gadi,Dahan,male,1977-11-11,Ashdod,20,109,109,1,1,0,1,0,0
+270559436,Lilach,Abuhatzira,female,1965-01-17,Holon,28,115,83,0,1,0,1,0,1
+313217490,Reuven,Kasirer,male,2017-03-17,Jerusalem,30,112,110,0,1,1,1,1,0
+277199967,Chana,Lavie,female,1963-04-12,Bnei_Brak,24,104,104,0,1,0,0,1,0
+258323470,Yotam,Marom,male,1993-11-04,Be'er_Sheva,26,98,77,1,1,0,0,1,0
+202699309,Miri,Sharabi,female,1960-02-04,Be'er_Sheva,22,86,83,0,1,1,0,0,1
+262337501,Itai,Salomon,male,2016-01-29,Bnei_Brak,22,138,85,1,1,1,0,1,1
+264518460,Hodaya,Sarusi,female,1984-08-21,Jerusalem,18,94,110,0,1,0,1,0,0
+354390001,Aharon,Amram,male,1977-10-10,Petah_Tikva,27,83,74,1,1,1,0,0,0
+385482456,Gali,Biton,female,2001-06-30,Tel_Aviv-Yafo,26,104,102,0,1,1,0,0,0
+369517308,Daniel,Amsalem,male,2004-08-06,Holon,27,112,106,0,1,1,0,0,0
+397926167,Dafna,Gavriel,female,1964-04-03,Petah_Tikva,28,104,72,0,1,0,0,1,0
+342515024,Gadi,Alouf,male,1944-02-09,Bnei_Brak,25,96,94,1,1,0,0,0,1
+395214223,Einat,Golan,female,1958-02-28,Be'er_Sheva,29,115,110,1,1,1,1,1,1
+217034723,Zohar,Shemesh,male,1967-12-09,Holon,18,104,77,0,1,1,0,1,0
+350283351,Dafna,Golan,female,1980-03-03,Netanya,20,91,88,1,1,0,1,1,0
+289488845,Dov,Yishai,male,1972-06-16,Holon,23,109,73,1,1,1,0,0,1
+228058767,Adi,Dayan,female,2012-02-06,Jerusalem,26,84,109,1,1,1,1,1,1
+241273958,Avraham,Biton,male,1937-08-28,Ashdod,18,136,76,1,1,0,1,0,1
+308782503,Neta,Biran,female,1938-02-15,Petah_Tikva,21,135,74,0,1,1,0,0,0
+203705752,Uri,Amram,male,1955-10-21,Ashdod,28,137,96,0,1,0,0,0,0
+364550350,Batya,Shiloni,female,1934-11-19,Tel_Aviv-Yafo,20,104,117,1,1,1,0,0,1
+391233259,Yehoshua,Amram,male,1991-08-27,Holon,20,104,92,1,1,1,1,1,0
+292836980,Noga,Sarusi,female,2008-01-19,Petah_Tikva,25,88,109,0,1,0,1,0,0
+256490877,Meir,Amir,male,1931-07-16,Tel_Aviv-Yafo,22,94,73,0,1,0,1,0,0
+389702905,Miri,Timsit,female,1945-01-08,Petah_Tikva,21,96,72,0,1,1,0,1,0
+375636975,Aviad,Sarusi,male,1998-04-25,Bnei_Brak,26,135,94,1,1,1,0,0,1
+239155976,Tzipora,Lavie,female,1989-01-25,Rishon_LeZion,22,101,110,0,1,1,1,1,1
+238845386,Uri,Mizrachi,male,2002-08-22,Petah_Tikva,30,115,85,0,1,1,1,1,1
+250084953,Orly,Shemesh,female,1983-03-07,Tel_Aviv-Yafo,27,88,85,1,1,0,0,1,0
+305832422,Yosef,Yehudai,male,1961-04-05,Ashdod,18,117,88,0,1,1,0,0,1
+223803075,Dikla,Hakim,female,1937-02-07,Tel_Aviv-Yafo,30,96,63,1,1,0,0,1,0
+261172930,Netanel,Kaslassi,male,1932-10-13,Be'er_Sheva,19,109,77,1,1,1,1,0,1
+399851744,Sigal,Asulin,female,1936-01-03,Haifa,24,138,93,1,1,0,1,0,0
+390618025,Haim,Saidoff,male,1986-05-03,Haifa,18,104,67,0,1,1,1,1,1
+335618667,Noga,Amir,female,1948-02-17,Ashdod,16,109,62,1,1,0,1,0,0
+263354371,Binyamin,Malka,male,1974-12-05,Be'er_Sheva,25,136,69,0,1,0,0,1,1
+283071415,Hagit,Ohana,female,2016-01-14,Bnei_Brak,21,115,96,1,1,1,1,0,1
+258914216,Yigal,Cohen,male,1982-10-17,Holon,22,132,106,0,1,0,0,0,0
+241186894,Eden,Hasson,female,1944-02-04,Netanya,21,117,110,1,1,1,0,0,0
+359522763,Yitzhak,Kadosh,male,1986-04-08,Petah_Tikva,18,117,109,0,1,0,0,1,1
+342312859,Orit,Huri,female,1980-02-05,Holon,22,104,63,1,1,0,0,1,0
+291209693,Daniel,Ohayon,male,1997-01-19,Tel_Aviv-Yafo,19,82,104,0,1,1,1,1,0
+297682637,Gali,Azoulay,female,1990-04-01,Bnei_Brak,26,86,102,0,1,1,0,0,1
+244566875,Gershon,Sabbag,male,2014-08-30,Bnei_Brak,16,91,110,1,1,1,1,1,1
+235664806,Nurit,Alfasi,female,2004-05-15,Be'er_Sheva,22,136,63,1,1,0,1,0,0
+204914227,Yehuda,Kaslassi,male,1942-06-24,Haifa,29,104,77,0,1,0,0,1,1
+275591095,Yael,Elmaliah,female,1952-05-14,Petah_Tikva,15,110,94,1,1,0,1,0,0
+370442849,Meir,Hakim,male,1956-08-18,Petah_Tikva,19,123,111,1,1,1,0,0,1
+389063156,Sigal,Huri,female,1981-10-29,Rishon_LeZion,19,136,107,1,1,0,0,1,0
+215590493,Nadav,Gavriel,male,1994-10-20,Holon,19,136,85,0,1,1,1,1,0
+251821919,Orit,Kaplan,female,1972-03-15,Be'er_Sheva,23,127,74,1,1,0,1,0,0
+248191284,David,Yehudai,male,1977-01-12,Bnei_Brak,27,114,83,1,1,0,1,1,0
+320214943,Dalit,Hasson,female,1991-12-30,Jerusalem,16,121,106,1,1,0,1,1,1
+327073112,Shimon,Avraham,male,1981-06-06,Tel_Aviv-Yafo,23,135,63,0,1,0,0,0,0
+205240792,Shira,Yehudai,female,1952-07-11,Tel_Aviv-Yafo,22,112,80,0,1,0,1,1,0
+208491107,Yitzhak,Azoulay,male,2014-06-22,Be'er_Sheva,16,104,68,1,1,1,1,0,1
+221626542,Avigail,Yerushalmi,female,2003-07-24,Bnei_Brak,26,94,96,1,1,0,0,0,3
+270104340,Shmuel,Asulin,male,1941-05-02,Rishon_LeZion,21,126,116,0,1,0,1,1,0
+217305273,Noa,Ohana,female,1935-04-24,Tel_Aviv-Yafo,19,82,92,0,1,1,1,0,0
+211509554,Amir,Saada,male,1948-05-06,Petah_Tikva,18,94,77,0,1,0,0,1,1
+217383370,Anat,Shemesh,female,1961-09-06,Tel_Aviv-Yafo,21,115,96,0,1,0,0,0,0
+258690835,Shmuel,Ohayon,male,1985-10-27,Haifa,22,133,62,1,1,1,1,0,1
+319805800,Efrat,Kamisa,female,1972-12-04,Rishon_LeZion,18,121,63,1,1,1,0,0,0
+244228136,Dov,Ohayon,male,1966-09-07,Bnei_Brak,24,139,102,0,1,1,0,1,0
+254796667,Dikla,Salomon,female,1961-12-08,Tel_Aviv-Yafo,15,117,96,1,1,0,0,0,1
+225533518,Hillel,Yishai,male,1928-06-14,Bnei_Brak,23,104,116,0,1,0,1,0,1
+250598164,Dalit,Marom,female,1925-03-09,Haifa,20,114,96,0,1,0,1,1,1
+288752814,Yotam,Huri,male,2006-05-23,Bnei_Brak,17,84,107,0,1,1,0,0,1
+218900571,Avigail,Avraham,female,1997-12-08,Haifa,16,86,83,1,1,0,1,0,0
+315830748,Shmuel,Kamisa,male,2015-01-19,Petah_Tikva,30,117,107,1,1,1,1,0,0
+229504527,Batya,Ohayon,female,2019-02-06,Be'er_Sheva,21,135,116,0,1,0,0,0,0
+249912281,Yair,Yehudai,male,1992-01-05,Be'er_Sheva,16,91,73,1,1,1,0,0,1
+245251274,Noga,Mizrachi,female,1920-07-29,Petah_Tikva,30,96,58,0,1,0,0,1,0
+215359370,Yosef,Sulimani,male,1961-01-29,Tel_Aviv-Yafo,15,104,111,0,1,1,0,1,1
+397764759,Yifat,Abuhatzira,female,1931-03-03,Be'er_Sheva,27,138,77,1,1,1,0,1,1
+220339835,Hillel,Azoulay,male,1935-05-15,Be'er_Sheva,23,137,104,0,1,1,0,0,1
+202255234,Tzipora,Yaron,female,1948-12-21,Tel_Aviv-Yafo,27,83,77,1,1,1,0,1,1
+350080834,Zohar,Hasson,male,1933-03-14,Ashdod,28,96,85,0,1,1,1,0,1
+289091137,Rivka,Yishai,female,1959-01-23,Jerusalem,20,88,88,1,1,0,1,1,1
+352650316,Dov,Cohen,male,1964-02-11,Jerusalem,20,136,83,1,1,0,0,1,1
+247345584,Noga,Kadosh,female,1964-04-27,Holon,16,104,65,0,1,0,0,0,0
+221880590,Doron,Sarusi,male,2012-01-29,Holon,24,88,72,1,1,0,1,0,2
+248172934,Leah,Basson,female,2014-01-22,Jerusalem,28,88,106,0,1,0,0,0,1
+337663914,Yaakov,Kamisa,male,2016-03-19,Bnei_Brak,21,110,101,1,1,0,0,1,0
+252023863,Orit,Elmaliah,female,1981-03-25,Netanya,28,96,77,0,1,0,0,0,0
+334638931,Avraham,Khalifa,male,2011-07-26,Ashdod,29,91,70,1,1,0,0,1,1
+355262770,Yiska,Kamisa,female,1949-11-01,Netanya,19,132,90,0,1,0,1,1,1
+285078931,Zeev,Elbaz,male,1972-11-23,Tel_Aviv-Yafo,24,88,102,1,1,0,0,1,0
+377123408,Limor,Hasson,female,2003-04-05,Holon,20,136,101,0,1,1,0,1,1
+312121848,Haim,Sulimani,male,1971-02-18,Tel_Aviv-Yafo,19,104,109,0,1,0,1,0,3
+227241452,Yonit,Sabbag,female,2009-02-04,Bnei_Brak,21,127,72,0,1,0,0,0,1
+247510461,Yair,Shemesh,male,1987-10-26,Be'er_Sheva,26,104,83,0,1,1,0,0,1
+387044016,Avigail,Kadosh,female,1941-02-10,Ashdod,23,91,77,1,1,0,0,0,1
+255746909,David,Sulimani,male,1925-03-15,Petah_Tikva,28,123,102,0,1,0,1,0,0
+305496588,Yael,Yosef,female,1991-11-08,Bnei_Brak,21,112,109,1,1,0,0,0,0
+254023006,Zeev,Malka,male,1988-04-05,Holon,30,109,104,1,1,1,1,1,0
+366601795,Leah,Zrihan,female,1968-08-13,Netanya,27,108,96,0,1,1,0,1,1
+296034768,Hillel,Yehudai,male,1960-02-15,Rishon_LeZion,28,88,90,1,1,0,0,1,1
+366652034,Liora,Ohana,female,1972-02-10,Jerusalem,28,109,76,1,1,0,0,0,1
+366684922,Reuven,Hasson,male,1935-08-16,Tel_Aviv-Yafo,27,132,110,1,1,0,0,0,0
+347598737,Eden,Sulimani,female,2018-09-08,Netanya,18,135,104,1,1,0,1,0,3
+293964869,Zohar,Yaron,male,1923-03-27,Jerusalem,24,104,87,1,1,0,1,1,0
+319654431,Hodaya,Avraham,female,1970-02-26,Haifa,28,98,63,1,1,0,0,1,0
+260497449,Yaakov,Sulimani,male,2004-06-05,Be'er_Sheva,19,91,106,0,1,0,1,0,3
+328800109,Tamar,Abuhatzira,female,1982-05-22,Jerusalem,28,104,80,1,1,1,0,1,0
+329403822,Amir,Mizrachi,male,2010-05-13,Jerusalem,24,104,77,1,1,1,1,1,0
+260532540,Liora,Zrihan,female,1981-11-16,Petah_Tikva,25,108,63,1,1,0,0,1,0
+325692849,Yotam,Sabag,male,1970-05-10,Be'er_Sheva,15,98,117,0,1,1,1,0,1
+344052565,Tzipora,Peretz,female,1969-03-12,Bnei_Brak,30,101,92,1,1,1,1,0,0
+357874595,Itai,Shitrit,male,1943-08-06,Haifa,25,104,96,0,1,1,0,1,0
+393860974,Yifat,Shabi,female,1938-04-16,Be'er_Sheva,29,127,73,1,1,0,0,0,0
+387504694,Binyamin,Cohen,male,1950-10-03,Holon,22,136,107,1,1,0,1,1,1
+296245188,Rivka,Gavriel,female,1986-04-15,Be'er_Sheva,22,135,109,0,1,1,1,1,0
+310277012,Zvi,Alouf,male,1946-01-01,Jerusalem,23,133,73,1,1,0,0,0,1
+316072020,Sigal,Levi,female,2013-12-07,Tel_Aviv-Yafo,16,99,77,0,1,0,0,0,0
+301796710,Shmuel,Sarusi,male,1936-05-25,Rishon_LeZion,24,132,83,0,1,0,1,0,1
+244872465,Natalie,Moyal,female,1941-02-18,Rishon_LeZion,24,122,93,0,1,0,0,0,0
+319435588,Avi,Sabbag,male,2016-03-03,Bnei_Brak,28,127,117,0,1,1,1,0,0
+214778775,Ruth,Amram,female,2019-02-11,Haifa,19,137,102,1,1,0,0,1,0
+269526447,Shai,Sason,male,2014-09-05,Holon,16,91,85,1,1,0,1,0,1
+381051823,Efrat,Abuhatzira,female,1959-02-24,Ashdod,27,111,62,1,1,1,1,0,0
+373894099,Yigal,Sulimani,male,1973-11-07,Haifa,29,109,85,0,1,1,1,0,0
+229052757,Tzipora,Gross,female,2014-12-23,Netanya,19,111,85,1,1,1,1,0,1
+207766848,Shai,Abuhatzira,male,1992-08-17,Holon,25,96,77,0,1,0,0,1,1
+219210875,Hadar,Nissan,female,1986-02-12,Be'er_Sheva,28,84,68,1,1,1,0,1,0
+279382494,Moshe,Davidov,male,1954-11-20,Tel_Aviv-Yafo,25,132,96,0,1,1,0,1,2
+298515620,Noa,Biton,female,1996-08-24,Haifa,22,136,77,1,1,1,1,1,0
+362734694,Uri,Darmon,male,1947-08-09,Bnei_Brak,17,108,58,1,1,1,0,0,0
+226673675,Rivka,Lavie,female,1963-09-09,Rishon_LeZion,21,98,67,1,1,0,1,0,1
+208380446,Avi,Khalifa,male,2017-12-05,Ashdod,16,135,107,0,1,0,1,1,0
+320012536,Tali,Shiloni,female,1961-08-25,Petah_Tikva,23,121,74,1,1,0,1,0,1
+390348840,Uri,Sharabi,male,1955-01-26,Jerusalem,25,127,92,0,1,0,1,0,0
+372323604,Nurit,Shabi,female,1930-11-01,Jerusalem,23,86,62,1,1,0,1,0,1
+209159696,Nadav,Elbaz,male,1958-01-20,Ashdod,20,133,106,0,1,0,1,1,0
+213839524,Sigal,Yaron,female,1972-06-01,Jerusalem,19,104,67,1,1,1,1,1,1
+270550056,Yaakov,Huri,male,1930-02-01,Netanya,18,98,63,0,1,0,0,0,1
+261319794,Hila,Gavriel,female,1929-08-11,Jerusalem,15,108,58,0,1,0,0,1,0
+250378232,Gershon,Lerner,male,1984-01-22,Jerusalem,28,115,110,1,1,0,1,1,0
+228900929,Gila,Kohn,female,1950-03-15,Jerusalem,29,104,116,1,1,1,0,0,1
+343973713,Uri,Zrihan,male,1975-09-11,Tel_Aviv-Yafo,26,122,69,1,1,1,1,0,0
+359260527,Orit,Carmeli,female,1962-10-01,Petah_Tikva,16,132,109,1,1,1,1,1,1
+300332113,Netanel,Peretz,male,2005-04-27,Petah_Tikva,18,104,109,1,1,1,1,1,1
+264983869,Rivka,Elmaliah,female,1952-07-08,Ashdod,21,86,102,0,1,1,1,1,1
+265684016,Meir,Bokobza,male,2012-06-01,Rishon_LeZion,16,123,107,0,1,0,0,0,1
+204902711,Nurit,Cohen,female,1989-01-19,Netanya,25,132,90,1,1,1,1,0,1
+261795032,Amir,Yishai,male,1931-06-20,Petah_Tikva,21,91,116,1,1,1,1,1,1
+317432312,Yael,Kahana,female,2001-11-10,Be'er_Sheva,19,94,92,1,1,0,1,0,1
+383606010,Natan,Lerner,male,1929-08-05,Jerusalem,30,109,106,0,1,0,1,1,0
+362469078,Dana,Avraham,female,1969-08-13,Haifa,17,104,65,1,1,0,0,0,0
+268218046,Yigal,Elbaz,male,1971-02-01,Bnei_Brak,22,91,63,1,1,1,0,0,1
+210877681,Dalit,Sharabi,female,1931-01-14,Netanya,21,101,65,0,1,1,0,0,1
+258074197,Yehoshua,Biton,male,2011-09-09,Rishon_LeZion,26,135,73,0,1,0,1,1,1
+265523555,Rivka,Nissan,female,1980-03-12,Holon,17,135,80,1,1,1,1,1,0
+284727007,Yair,Lerner,male,1921-07-31,Netanya,25,88,77,0,1,0,1,0,0
+217150837,Rachel,Mizrachi,female,1997-06-01,Rishon_LeZion,24,111,108,0,1,1,0,1,0
+217285721,Amir,Marom,male,1948-08-03,Be'er_Sheva,24,136,104,1,1,1,0,0,1
+257365861,Dafna,Hasson,female,1975-03-31,Haifa,21,91,68,0,1,1,1,1,0
+246210428,Yaakov,Moyal,male,1946-06-24,Haifa,24,109,92,1,1,1,0,1,0
+204394077,Yifat,Shitrit,female,1966-12-17,Holon,21,123,106,1,1,0,1,0,1
+243863224,Avi,Malka,male,2008-03-29,Jerusalem,27,121,80,0,1,0,1,0,1
+292047699,Sigal,Amsalem,female,1977-10-16,Netanya,27,104,83,1,1,1,0,1,0
+253368101,Binyamin,Saada,male,1934-05-18,Jerusalem,18,111,102,0,1,0,0,0,0
+233235691,Yifat,Ayalon,female,1928-06-11,Jerusalem,18,127,108,0,1,1,0,0,1
+372810280,Yair,Marom,male,1965-02-26,Rishon_LeZion,30,98,68,1,1,0,1,0,0
+291479867,Tzipora,Basson,female,1952-03-25,Be'er_Sheva,18,132,77,1,1,1,1,0,1
+236968178,Shlomo,Amsalem,male,1943-07-09,Tel_Aviv-Yafo,23,101,116,0,1,1,0,1,0
+204946558,Lilach,Elmaliah,female,1929-11-27,Rishon_LeZion,29,98,67,0,1,0,0,0,1
+253377389,Moshe,Asulin,male,1955-04-17,Tel_Aviv-Yafo,27,111,77,1,1,1,1,1,1
+316729133,Shaked,Davidov,female,1932-06-09,Netanya,30,113,63,0,1,0,1,0,2
+259444978,Yaakov,Ayalon,male,1974-01-11,Petah_Tikva,19,99,83,0,1,1,1,1,0
+375554898,Dikla,Sabbag,female,1974-12-06,Haifa,25,94,110,1,1,1,0,1,1
+336136323,Avraham,Abuhatzira,male,1942-11-30,Rishon_LeZion,18,108,94,0,1,1,0,0,1
+304704446,Noa,Salomon,female,2017-09-07,Rishon_LeZion,24,116,96,1,1,0,0,0,0
+375697452,Meir,Gross,male,1960-07-01,Ashdod,17,86,73,0,1,0,0,1,0
+386915480,Adi,Shoshan,female,1943-09-14,Bnei_Brak,30,106,110,0,1,1,0,0,0
+374724970,Yotam,Kfir,male,2002-11-18,Haifa,23,91,106,0,1,0,1,1,1
+260749627,Limor,Hasson,female,2018-10-30,Haifa,17,104,58,1,1,0,1,0,1
+340330142,Netanel,Malka,male,2008-02-22,Petah_Tikva,30,98,106,0,1,1,0,1,0
+214126309,Keren,Kamisa,female,1958-05-07,Netanya,28,111,93,1,1,0,1,1,0
+283572944,Yaniv,Sulimani,male,2013-01-24,Be'er_Sheva,20,135,102,0,1,1,0,0,1
+395349090,Einat,Rosenberg,female,1922-09-12,Jerusalem,22,109,78,0,1,1,0,0,0
+280363420,Yehoshua,Dahan,male,1980-08-09,Haifa,30,96,65,1,1,1,1,0,1
+238133737,Dalit,Kaplan,female,1924-04-08,Haifa,23,86,73,0,1,0,0,0,1
+290011628,Avraham,Elbaz,male,1969-05-22,Ashdod,18,138,87,0,1,1,1,1,0
+214474998,Rivka,Biton,female,2001-05-10,Holon,18,106,96,0,1,0,1,1,0
+251233644,Moshe,Zrihan,male,2010-05-06,Rishon_LeZion,19,116,65,0,1,0,0,1,0
+375719420,Eden,Sulimani,female,2016-09-30,Tel_Aviv-Yafo,29,133,74,1,1,1,1,0,0
+343490960,Zeev,Yaron,male,1938-12-30,Be'er_Sheva,26,82,107,0,1,1,1,1,1
+332225209,Sigal,Shemesh,female,1993-10-06,Haifa,27,98,90,0,1,1,0,0,0
+230289102,Yehuda,Kfir,male,1991-10-02,Be'er_Sheva,23,101,87,1,1,0,0,0,0
+395628607,Noa,Dayan,female,1941-05-20,Bnei_Brak,22,94,87,0,1,0,0,0,0
+267428139,Nir,Golan,male,1952-02-11,Ashdod,23,139,83,1,1,1,0,1,0
+346448053,Noa,Abuhatzira,female,1952-08-17,Tel_Aviv-Yafo,23,98,96,0,1,1,1,1,2
+381801729,Doron,Sharabi,male,2007-09-11,Tel_Aviv-Yafo,28,115,62,0,1,1,1,1,1
+381617239,Nurit,Amram,female,1961-09-07,Bnei_Brak,25,132,106,0,1,0,0,0,0
+380570767,Shai,Lavie,male,1931-02-23,Haifa,27,112,67,1,1,0,0,1,0
+347005837,Orit,Kadosh,female,2006-06-13,Haifa,30,82,67,0,1,1,0,1,0
+283813535,Shai,Amram,male,1923-06-15,Bnei_Brak,19,98,73,1,1,0,1,1,0
+269426676,Leah,Cohen,female,1963-08-04,Tel_Aviv-Yafo,26,123,69,0,1,1,1,1,0
+240430215,Shlomo,Yehuda,male,1978-02-24,Holon,19,84,93,1,1,1,0,0,0
+262056534,Tamar,Lerner,female,1928-09-25,Bnei_Brak,24,86,109,1,1,0,1,1,1
+371264740,Uri,Huri,male,1969-02-08,Jerusalem,22,98,63,0,1,1,0,0,1
+235246753,Leah,Eliyahu,female,1927-02-15,Tel_Aviv-Yafo,21,115,73,1,1,1,1,1,0
+376431773,Yisrael,Sabag,male,1922-08-15,Ashdod,19,138,94,1,1,0,1,0,0
+291016246,Orly,Basson,female,1964-08-21,Haifa,24,101,109,1,1,0,1,0,0
+337434646,David,Ayalon,male,1967-06-03,Rishon_LeZion,22,122,73,1,1,1,0,1,0
+243928637,Adi,Sulimani,female,1931-02-04,Jerusalem,16,116,109,0,1,0,0,0,1
+386846147,Avi,Efrati,male,1940-03-27,Ashdod,29,83,74,1,1,1,0,1,0
+356547091,Leah,Yerushalmi,female,1959-08-11,Netanya,19,91,108,1,1,1,1,1,0
+247160585,Reuven,Rosenberg,male,1921-05-20,Netanya,23,91,77,1,1,1,0,1,1
+266353419,Ruth,Dayan,female,2011-12-03,Petah_Tikva,20,116,62,0,1,1,0,0,1
+372302538,Shmuel,Abuhatzira,male,1977-07-20,Ashdod,24,88,104,0,1,1,0,0,0
+382505578,Tzipora,Alouf,female,1986-08-19,Rishon_LeZion,16,96,104,0,1,0,0,0,0
+286058297,Yehoshua,Khalifa,male,1967-03-15,Ashdod,25,135,77,0,1,0,1,1,1
+233139995,Liora,Yerushalmi,female,1981-07-20,Ashdod,24,136,77,0,1,1,0,0,1
+390826282,Yair,Hasson,male,1984-10-09,Holon,22,105,111,1,1,0,1,1,1
+397902572,Limor,Kaplan,female,1994-07-03,Petah_Tikva,22,98,72,0,1,0,1,1,0
+356457920,Amir,Huri,male,1980-05-24,Jerusalem,15,96,110,1,1,0,1,1,0
+295131024,Rivka,Huri,female,2001-09-20,Rishon_LeZion,24,94,87,1,1,0,0,0,0
+234829211,Hillel,Moyal,male,1940-12-10,Haifa,15,139,96,0,1,1,0,0,1
+224079350,Batya,Yosef,female,1923-11-11,Be'er_Sheva,23,112,117,1,1,0,0,1,0
+342781244,Mordechai,Yishai,male,1957-10-24,Petah_Tikva,28,86,90,1,1,0,1,0,1
+385490200,Galit,Sabag,female,2000-07-29,Holon,25,105,85,0,1,1,1,0,0
+235024233,Yehuda,Sabag,male,1960-09-28,Holon,16,138,70,1,1,0,0,0,1
+208234212,Hadar,Davidov,female,1971-08-03,Ashdod,26,122,77,0,1,1,1,1,0
+361735776,Moshe,Kaslassi,male,1922-04-08,Jerusalem,29,121,77,1,1,1,0,0,1
+328077073,Hagit,Sason,female,1949-01-13,Netanya,30,132,107,0,1,1,1,1,1
+280074699,Netanel,Mizrachi,male,1965-09-09,Ashdod,16,86,77,0,1,0,1,1,1
+336110328,Gali,Gavriel,female,1974-03-28,Be'er_Sheva,25,83,63,1,1,1,0,1,1
+387521131,Natan,Nissan,male,1938-07-08,Ashdod,24,122,58,0,1,0,1,1,1
+334739388,Liora,Kfir,female,1958-07-16,Bnei_Brak,28,117,78,1,1,0,0,0,0
+293769990,Avraham,Yosef,male,1951-04-13,Bnei_Brak,24,132,68,1,1,0,1,0,0
+305243538,Malka,Kfir,female,1981-12-17,Tel_Aviv-Yafo,30,98,106,1,1,1,1,1,1
+242657946,Netanel,Elbaz,male,1995-01-06,Jerusalem,23,133,94,1,1,1,1,0,0
+205131749,Yifat,Basson,female,1988-10-19,Holon,22,122,77,1,1,1,1,0,1
+377057783,Yehoshua,Yerushalmi,male,1948-09-21,Ashdod,25,132,107,1,1,0,0,0,1
+244118812,Hagit,Shoshan,female,1986-04-08,Rishon_LeZion,23,135,58,0,1,0,1,1,1
+389857720,Shai,Elmaliah,male,1962-01-11,Ashdod,20,121,88,1,1,0,0,0,0
+275405732,Ruth,Golan,female,1924-06-06,Rishon_LeZion,19,106,85,1,1,0,0,1,0
+341073514,Eran,Yosef,male,1992-12-17,Be'er_Sheva,19,116,63,0,1,0,1,1,2
+277137592,Tali,Khalifa,female,1980-09-04,Netanya,27,122,76,1,1,1,0,1,1
+370688107,Avraham,Mizrachi,male,1973-04-11,Netanya,30,96,96,1,1,0,0,0,0
+395640589,Sigal,Huri,female,1929-03-19,Netanya,30,127,88,1,1,1,1,0,3
+291968515,Aviad,Davidov,male,1934-02-25,Petah_Tikva,25,132,102,0,1,1,1,0,1
+368516370,Yael,Shiloni,female,1965-10-01,Be'er_Sheva,30,84,104,0,1,0,0,1,0
+308160749,Yotam,Bokobza,male,1994-05-06,Petah_Tikva,22,121,73,0,1,0,0,0,1
+365160372,Hadar,Khalifa,female,2005-08-08,Ashdod,19,86,96,0,1,1,0,0,1
+348466711,Shlomo,Kfir,male,2013-08-14,Petah_Tikva,21,104,69,0,1,1,0,0,1
+239536927,Dikla,Yehuda,female,1971-07-14,Ashdod,24,98,65,1,1,0,0,0,0
+203564259,Uri,Malka,male,2005-01-28,Jerusalem,16,115,58,1,1,1,1,0,1
+279005969,Rivka,Kamisa,female,1998-08-10,Netanya,17,115,88,1,1,1,0,1,1
+368251545,Daniel,Kfir,male,1967-09-01,Tel_Aviv-Yafo,26,117,73,1,1,0,1,0,0
+235659237,Noga,Basson,female,2005-01-28,Rishon_LeZion,25,138,99,0,1,1,0,1,0
+237422179,Moshe,Sabag,male,1932-04-26,Petah_Tikva,30,104,102,0,1,0,1,1,0
+281010917,Michal,Nissan,female,1925-06-13,Jerusalem,18,91,83,0,1,1,0,1,0
+321804628,Hillel,Sabag,male,1969-04-22,Netanya,22,82,83,0,1,1,1,0,0
+308401854,Gali,Basson,female,1929-03-16,Petah_Tikva,22,132,78,1,1,0,0,0,1
+217009587,Yaakov,Amsalem,male,1935-11-14,Ashdod,28,104,109,1,1,1,1,0,0
+301093933,Miri,Amram,female,1931-01-08,Be'er_Sheva,18,136,106,0,1,0,1,0,1
+323848673,Nir,Kadosh,male,2015-07-30,Netanya,22,91,101,1,1,0,0,1,1
+308293106,Yifat,Rosenberg,female,2013-01-05,Jerusalem,26,117,72,0,1,1,0,0,0
+205147809,Omer,Sulimani,male,1974-04-18,Jerusalem,22,123,110,0,1,1,0,0,1
+384304122,Dalit,Levi,female,2007-08-09,Rishon_LeZion,25,117,107,1,1,0,1,0,2
+228604414,Zohar,Yerushalmi,male,1921-11-21,Be'er_Sheva,19,91,102,1,1,0,0,1,1
+351256815,Lilach,Yishai,female,2007-04-30,Tel_Aviv-Yafo,29,115,99,1,1,1,1,1,1
+245617023,Gadi,Sarusi,male,1990-09-18,Netanya,18,121,102,1,1,0,1,1,1
+270640292,Orit,Yehuda,female,2017-06-14,Haifa,20,98,110,1,1,0,0,0,1
+304913750,Shlomo,Hakim,male,1998-08-12,Netanya,27,132,96,0,1,1,1,1,1
+355747907,Michal,Mizrachi,female,1933-09-22,Holon,18,115,83,0,1,0,0,1,1
+396987385,Itai,Khalifa,male,1954-06-02,Netanya,16,109,109,1,1,1,0,0,1
+260146997,Yonit,Gavriel,female,1990-09-13,Tel_Aviv-Yafo,22,91,102,0,1,0,0,1,0
+255554793,Nir,Nissan,male,1963-03-07,Bnei_Brak,22,138,74,0,1,1,1,0,1
+206691456,Rachel,Sason,female,2007-09-19,Holon,15,99,111,0,1,0,0,0,0
+391365025,Eitan,Kfir,male,1939-03-28,Jerusalem,24,117,101,0,1,0,0,0,1
+310321342,Malka,Kaslassi,female,1932-04-25,Haifa,27,82,76,0,1,1,1,1,0
+335039413,Eitan,Moyal,male,1968-09-09,Rishon_LeZion,24,115,67,0,1,1,1,0,1
+373419706,Rivka,Amram,female,1972-09-12,Bnei_Brak,26,137,70,1,1,1,0,1,1
+319309203,Gadi,Kahana,male,1987-10-20,Rishon_LeZion,17,91,83,1,1,1,0,0,1
+353747072,Nurit,Ohayon,female,1971-06-11,Tel_Aviv-Yafo,21,104,77,0,1,1,0,0,0
+204241913,Zohar,Huri,male,1990-01-11,Haifa,30,98,109,1,1,1,0,1,0
+270122221,Chana,Shiloni,female,1982-06-20,Netanya,28,111,73,0,1,1,1,1,0
+375542692,Noam,Elbaz,male,1956-09-13,Bnei_Brak,19,104,85,0,1,1,1,1,3
+331193725,Hila,Shamama,female,1961-11-23,Rishon_LeZion,24,116,83,1,1,0,0,0,0
+329835194,Reuven,Yishai,male,2002-08-28,Petah_Tikva,25,94,102,1,1,1,1,1,1
+353453756,Chana,Alfasi,female,1989-11-05,Bnei_Brak,18,114,72,0,1,0,1,0,1
+312739220,Avi,Davidov,male,1944-06-02,Rishon_LeZion,15,84,106,1,1,0,1,0,1
+281980591,Ruth,Gross,female,1952-10-29,Petah_Tikva,15,88,107,0,1,1,0,1,1
+397674236,Reuven,Peretz,male,1929-03-27,Ashdod,19,132,76,0,1,0,0,1,0
+361578917,Dana,Salomon,female,2002-03-14,Holon,23,94,78,0,1,1,1,0,1
+253865293,Ariel,Sabbag,male,1956-11-13,Petah_Tikva,20,127,69,1,1,0,0,0,0
+380690358,Hodaya,Kasirer,female,2010-02-24,Be'er_Sheva,25,82,116,1,1,0,0,0,0
+345163110,Yosef,Shitrit,male,1982-02-26,Petah_Tikva,16,122,96,1,1,1,0,1,3
+350388492,Eden,Rosenberg,female,1921-03-14,Tel_Aviv-Yafo,15,96,72,0,1,1,0,0,0
+303128445,Avi,Amir,male,1927-08-18,Holon,19,94,96,0,1,0,1,1,1
+236131596,Eden,Davidov,female,2014-08-06,Petah_Tikva,19,104,102,0,1,1,1,1,0
+221218077,Zohar,Sason,male,1970-06-16,Be'er_Sheva,19,101,99,1,1,0,1,0,1
+290790996,Rivka,Rosenberg,female,1921-05-12,Ashdod,30,136,73,1,1,0,0,1,0
+214010852,Nir,Yehudai,male,1933-01-05,Jerusalem,23,88,85,0,1,1,0,1,1
+377070500,Nira,Sabbag,female,2019-03-16,Bnei_Brak,30,113,68,0,1,0,1,1,1
+316818641,Yigal,Shemesh,male,1950-10-13,Netanya,16,98,87,1,1,0,0,1,0
+239034722,Galit,Saada,female,1948-02-09,Be'er_Sheva,22,137,94,1,1,1,0,1,1
+223630961,Eitan,Marom,male,2018-12-14,Tel_Aviv-Yafo,15,86,96,0,1,0,1,0,1
+330573500,Yifat,Asulin,female,1993-09-28,Petah_Tikva,30,117,117,1,1,0,1,1,1
+209349698,Yigal,Malka,male,2000-11-25,Ashdod,17,115,88,0,1,0,0,0,0
+348015590,Dafna,Yehudai,female,1950-11-06,Jerusalem,25,122,73,0,1,1,1,1,1
+355070215,Shai,Kfir,male,1942-07-29,Ashdod,15,101,96,0,1,0,1,1,0
+241470899,Shira,Amram,female,1992-11-29,Petah_Tikva,15,82,72,1,1,1,0,1,1
+205123836,Uri,Amsalem,male,1953-11-09,Holon,18,110,68,0,1,0,1,1,1
+366951103,Tova,Ayalon,female,1985-05-05,Netanya,15,135,117,1,1,0,0,0,1
+396668698,Reuven,Kasirer,male,1969-01-28,Petah_Tikva,21,132,94,0,1,0,0,0,1
+227696207,Yiska,Shitrit,female,1970-11-23,Holon,18,116,109,0,1,1,1,1,0
+268975900,Reuven,Yehudai,male,1953-07-18,Rishon_LeZion,16,106,83,0,1,1,1,0,1
+326913586,Hagit,Marom,female,1951-01-19,Jerusalem,22,104,109,1,1,0,1,0,1
+286365979,Mordechai,Golan,male,1932-01-14,Bnei_Brak,29,104,107,0,1,1,0,1,1
+243216958,Lilach,Sabbag,female,1976-01-21,Be'er_Sheva,18,99,80,0,1,1,0,1,1
+251408765,Shmuel,Hasson,male,1950-02-21,Bnei_Brak,27,82,65,0,1,1,1,1,0
+380214284,Shira,Shamama,female,1934-12-06,Jerusalem,29,86,107,0,1,1,1,0,1
+264528283,Eitan,Golan,male,1964-11-02,Petah_Tikva,27,114,83,1,1,0,0,0,1
+279837823,Efrat,Yehuda,female,1966-08-18,Rishon_LeZion,26,115,62,0,1,1,0,0,0
+261377881,Gadi,Dahan,male,1974-12-23,Tel_Aviv-Yafo,24,91,72,1,1,0,1,0,1
+237653116,Efrat,Abuhatzira,female,1924-04-29,Be'er_Sheva,20,98,74,0,1,0,0,1,1
+335159776,Zeev,Ohayon,male,1926-12-27,Bnei_Brak,23,121,116,1,1,1,1,1,1
+311918074,Einat,Alfasi,female,1921-11-16,Rishon_LeZion,16,116,70,0,1,0,0,1,1
+373301632,Omer,Carmeli,male,1956-08-17,Be'er_Sheva,23,115,107,0,1,1,0,0,0
+215292181,Dafna,Amsalem,female,1956-03-11,Be'er_Sheva,17,109,68,1,1,1,1,0,0
+289484289,Yaakov,Sason,male,1957-12-26,Ashdod,21,105,111,1,1,0,0,0,3
+284904960,Chana,Cohen,female,2015-03-04,Holon,26,136,70,0,1,0,1,0,0
+355846928,Uri,Rosenberg,male,2014-08-01,Ashdod,17,126,111,1,1,0,0,0,0
+384824834,Noa,Alfasi,female,1970-08-12,Tel_Aviv-Yafo,23,88,116,0,1,1,0,1,0
+259913709,Zeev,Gross,male,1995-12-23,Be'er_Sheva,19,127,73,1,1,0,1,1,0
+353685628,Orit,Amir,female,1966-09-15,Haifa,17,138,70,1,1,1,1,0,1
+389321481,Nadav,Davidov,male,1969-09-25,Jerusalem,21,113,93,1,1,1,1,0,0
+291643489,Galit,Sulimani,female,1977-11-24,Netanya,21,88,102,1,1,1,1,1,0
+328308333,Avraham,Alouf,male,1960-06-15,Holon,20,117,77,1,1,0,0,1,1
+392225290,Nira,Abuhatzira,female,2019-10-14,Petah_Tikva,18,132,102,0,1,0,0,1,0
+302624544,Eitan,Avraham,male,1968-02-19,Holon,23,136,107,1,1,0,0,0,0
+325385324,Sigal,Carmeli,female,1955-08-06,Ashdod,25,91,107,1,1,0,1,0,1
+372515990,Nadav,Gavriel,male,1933-12-26,Jerusalem,24,104,62,1,1,1,1,1,0
+299578952,Maya,Avraham,female,1992-04-23,Ashdod,26,110,96,1,1,1,1,1,0
+271387699,Netanel,Amir,male,1984-09-27,Rishon_LeZion,20,94,72,0,1,1,0,1,1
+333755330,Yifat,Dahan,female,1979-04-03,Holon,26,88,62,0,1,0,1,1,1
+234016567,Haim,Alouf,male,1954-09-18,Be'er_Sheva,25,109,77,1,1,1,1,1,0
+333303653,Tzipora,Alfasi,female,2004-08-19,Tel_Aviv-Yafo,23,84,102,0,1,1,1,1,1
+250487475,Meir,Lerner,male,1974-04-10,Petah_Tikva,15,108,73,0,1,0,1,1,3
+260295341,Hila,Ayalon,female,2003-11-20,Bnei_Brak,19,136,110,0,1,1,1,1,0
+360029126,Yigal,Nissan,male,2015-02-02,Bnei_Brak,24,136,111,1,1,1,1,1,0
+334392006,Tova,Gross,female,1944-04-16,Petah_Tikva,20,84,99,0,1,1,1,0,0
+253701318,Yotam,Saada,male,1937-08-08,Holon,22,133,111,1,1,0,1,0,3
+297665946,Limor,Malka,female,1984-11-05,Tel_Aviv-Yafo,29,113,96,0,1,0,1,1,0
+259709348,Zvi,Timsit,male,1973-03-06,Holon,19,123,101,1,1,0,0,0,0
+352624910,Nira,Amir,female,2006-02-04,Be'er_Sheva,30,121,117,0,1,1,0,1,1
+359424766,Yigal,Darmon,male,1924-06-10,Netanya,22,122,67,1,1,0,1,0,1
+369857724,Yiska,Saidoff,female,1938-07-27,Netanya,16,109,107,0,1,1,0,0,2
+295212557,Gershon,Khalifa,male,1981-08-19,Ashdod,28,135,67,1,1,1,1,1,0
+276012480,Yifat,Shitrit,female,2015-12-25,Haifa,21,96,58,1,1,1,1,1,1
+277796645,Yitzhak,Saidoff,male,1933-12-12,Bnei_Brak,22,110,85,1,1,0,1,0,0
+210061287,Malka,Timsit,female,1990-08-01,Jerusalem,29,99,67,1,1,1,0,1,0
+269656394,Dov,Kaplan,male,1981-07-13,Holon,25,98,83,1,1,0,0,1,0
+278551851,Yael,Shemesh,female,2010-05-12,Holon,23,116,96,0,1,0,1,0,1
+394472925,Yehoshua,Saidoff,male,1986-11-18,Petah_Tikva,24,138,74,1,1,1,1,1,3
+229938684,Hadar,Peretz,female,1956-09-04,Rishon_LeZion,24,117,62,0,1,0,1,0,1
+303426372,Doron,Yosef,male,2018-07-04,Haifa,21,86,68,0,1,1,1,0,0
+373519688,Yonit,Lavie,female,1945-06-16,Jerusalem,29,105,83,0,1,0,1,1,1
+314863352,Yosef,Asulin,male,1991-09-19,Rishon_LeZion,29,105,65,1,1,0,1,0,1
+347752374,Michal,Golan,female,1951-12-23,Petah_Tikva,20,138,106,0,1,1,0,0,0
+217889476,Shmuel,Dayan,male,1934-01-30,Bnei_Brak,18,137,94,1,1,1,0,0,0
+286288874,Tamar,Mizrachi,female,1966-07-14,Tel_Aviv-Yafo,17,132,109,0,1,0,0,0,0
+231244265,Nadav,Mizrachi,male,1962-11-11,Jerusalem,19,109,83,1,1,1,0,1,1
+394565613,Limor,Saidoff,female,2008-01-12,Jerusalem,16,104,109,1,1,0,0,0,0
+224637783,Noam,Shamama,male,1930-01-04,Tel_Aviv-Yafo,23,136,80,0,1,1,0,1,1
+337710916,Dalit,Moyal,female,1931-09-07,Tel_Aviv-Yafo,20,83,83,1,1,0,0,1,1
+353080230,Omer,Sulimani,male,1988-03-05,Jerusalem,21,132,80,0,1,0,1,0,1
+360862172,Hodaya,Amir,female,1921-05-24,Holon,21,86,106,1,1,0,0,1,0
+350464933,Reuven,Khalifa,male,2012-02-16,Tel_Aviv-Yafo,24,122,77,1,1,1,1,1,1
+269746344,Hodaya,Biran,female,2013-02-20,Petah_Tikva,26,104,68,1,1,1,0,0,1
+351676534,Moshe,Davidov,male,1982-06-03,Netanya,15,104,68,1,1,1,1,1,0
+374152195,Miri,Amir,female,1940-07-08,Be'er_Sheva,20,104,109,0,1,1,0,0,3
+238092253,Binyamin,Shamama,male,1927-06-13,Petah_Tikva,19,136,68,1,1,1,1,1,0
+268235306,Noa,Sabag,female,1941-12-24,Ashdod,27,106,116,1,1,0,0,1,0
+298662495,Nadav,Hasson,male,1997-04-27,Ashdod,21,86,88,1,1,0,1,0,0
+270295945,Anat,Yishai,female,1931-08-30,Netanya,18,104,70,1,1,1,0,1,0
+330731573,Yehuda,Davidov,male,2015-06-26,Holon,25,122,80,0,1,0,1,1,0
+375443200,Maya,Kamisa,female,2000-10-27,Petah_Tikva,17,136,109,1,1,1,1,1,0
+236069760,Itai,Basson,male,2000-12-09,Jerusalem,25,84,62,1,1,1,1,1,0
+369902091,Sigal,Dahan,female,1954-04-01,Holon,16,111,63,0,1,0,1,0,0
+225181377,Moshe,Peretz,male,1950-07-26,Holon,29,94,92,1,1,1,0,0,0
+228612866,Hadar,Efrati,female,1920-03-17,Bnei_Brak,26,82,74,1,1,0,0,1,0
+231753803,Doron,Ohayon,male,2010-08-02,Bnei_Brak,26,114,77,1,1,1,0,0,0
+373423487,Dana,Carmeli,female,2015-12-31,Bnei_Brak,22,138,65,1,1,1,1,1,1
+228413679,Yosef,Avraham,male,1942-06-19,Ashdod,27,113,80,0,1,1,0,0,0
+321362731,Noga,Elbaz,female,1958-08-03,Jerusalem,22,113,63,0,1,1,0,1,1
+231879521,Menachem,Lerner,male,1945-03-26,Ashdod,25,94,76,1,1,1,0,0,0
+229944281,Yifat,Kaplan,female,1979-09-10,Haifa,18,104,67,0,1,1,0,0,0
+244048490,Hillel,Kadosh,male,2018-04-09,Haifa,19,133,63,1,1,0,0,0,1
+340412591,Tzipora,Hakim,female,1978-02-08,Petah_Tikva,27,86,116,0,1,0,0,0,1
+273209579,Hillel,Bokobza,male,1980-02-23,Haifa,29,98,109,1,1,0,1,0,0
+210800275,Rachel,Amsalem,female,1941-02-05,Tel_Aviv-Yafo,26,132,109,1,1,1,1,1,2
+246314850,Yehuda,Eliyahu,male,2013-07-17,Holon,22,101,74,0,1,1,1,1,1
+336691107,Anat,Biton,female,1957-07-13,Tel_Aviv-Yafo,22,139,111,1,1,1,1,0,1
+268695904,Zohar,Avraham,male,1976-12-08,Be'er_Sheva,21,135,67,0,1,1,0,0,1
+389323239,Tzipora,Shamama,female,1982-05-05,Bnei_Brak,25,117,72,0,1,0,1,1,0
+333796037,Nir,Ohayon,male,1933-09-01,Rishon_LeZion,26,109,67,0,1,0,1,1,0
+358873079,Yael,Kahana,female,2004-06-14,Netanya,27,96,74,0,1,0,1,1,1
+281055586,Moshe,Malka,male,1924-10-05,Tel_Aviv-Yafo,29,83,63,0,1,1,1,1,1
+289593378,Michal,Avraham,female,1990-08-20,Petah_Tikva,29,112,110,1,1,0,1,0,1
+355347054,Avraham,Sarusi,male,1994-08-21,Bnei_Brak,29,115,65,0,1,0,1,1,0
+351650735,Orit,Zrihan,female,1977-05-13,Rishon_LeZion,27,136,90,1,1,0,1,1,3
+299946753,Shlomo,Dayan,male,1920-07-07,Ashdod,24,135,70,0,1,1,1,1,0
+209399280,Ruth,Zrihan,female,1966-04-26,Netanya,17,109,99,0,1,0,1,1,1
+273917886,Yisrael,Kamisa,male,1964-09-28,Petah_Tikva,24,88,109,0,1,1,0,1,1
+392180063,Adi,Kamisa,female,1973-01-26,Rishon_LeZion,21,98,62,1,1,0,1,1,1
+242692151,Reuven,Sason,male,1996-03-01,Ashdod,27,135,80,1,1,0,0,0,0
+395785194,Shira,Rosenberg,female,1969-09-13,Rishon_LeZion,20,96,109,1,1,0,0,0,0
+342899761,Itai,Timsit,male,1920-07-28,Petah_Tikva,21,104,63,0,1,0,1,1,1
+326561088,Yael,Peretz,female,1949-12-24,Ashdod,25,117,88,1,1,0,1,0,0
+349843881,Moshe,Shoshan,male,2015-03-08,Petah_Tikva,20,132,107,0,1,0,1,1,0
+216053706,Shira,Ayalon,female,1928-07-15,Ashdod,15,136,107,1,1,0,1,0,1
+268982885,Yair,Avraham,male,1971-08-31,Haifa,16,94,58,0,1,1,0,0,1
+240834737,Hagit,Saada,female,1973-12-27,Rishon_LeZion,20,106,110,0,1,0,0,0,0
+392862397,Gadi,Amsalem,male,1998-07-01,Bnei_Brak,23,104,77,0,1,1,1,0,0
+389927607,Hodaya,Lerner,female,1981-05-31,Haifa,20,117,110,0,1,0,1,1,1
+302380153,David,Shiloni,male,1946-05-12,Petah_Tikva,15,135,96,1,1,0,0,1,1
+349987133,Yael,Sabag,female,1968-12-12,Ashdod,29,86,69,0,1,0,1,0,1
+278012298,Nir,Carmeli,male,2005-07-30,Petah_Tikva,22,138,111,0,1,0,1,0,1
+380692983,Hodaya,Gavriel,female,2008-01-09,Haifa,29,135,63,1,1,1,0,0,0
+213267200,Moshe,Moyal,male,1969-03-13,Haifa,26,116,109,1,1,0,0,1,0
+362944529,Gali,Moyal,female,1990-12-09,Holon,19,104,94,0,1,0,0,0,0
+396180034,Noam,Yosef,male,1996-04-19,Netanya,17,82,116,0,1,0,0,0,0
+391621967,Tova,Malka,female,1958-05-26,Be'er_Sheva,30,123,62,1,1,0,1,1,1
+313925457,Avi,Eliyahu,male,1961-04-10,Holon,20,122,68,0,1,0,1,1,2
+367778728,Limor,Sharabi,female,1992-08-19,Netanya,21,136,116,1,1,1,1,1,0
+275177842,Hillel,Hasson,male,1923-10-01,Bnei_Brak,18,84,90,1,1,1,1,1,0
+370956131,Liora,Amsalem,female,1963-10-20,Tel_Aviv-Yafo,22,115,104,1,1,0,0,0,1
+383034703,Gadi,Shiloni,male,1981-03-12,Bnei_Brak,25,132,110,1,1,1,0,0,1
+215375009,Shira,Yehuda,female,1932-08-19,Jerusalem,19,109,106,1,1,0,1,0,0
+395624137,Nir,Darmon,male,2007-09-03,Rishon_LeZion,30,112,70,1,1,1,1,0,0
+378872223,Noga,Kadosh,female,2014-04-25,Netanya,19,126,93,1,1,0,1,0,0
+222848926,Yotam,Amsalem,male,1951-09-15,Jerusalem,25,104,117,1,1,0,0,1,0
+385873332,Hodaya,Azoulay,female,2003-06-17,Ashdod,24,104,83,1,1,0,1,1,1
+239498810,Mordechai,Ayalon,male,1983-11-23,Tel_Aviv-Yafo,21,114,68,0,1,0,1,0,1
+248093533,Hadar,Nissan,female,1931-04-15,Netanya,17,104,110,1,1,0,0,0,1
+378146317,Yitzchak,Kahlon,male,2019-04-04,Holon,16,86,116,1,1,1,0,1,0
+319750309,Galit,Shoshan,female,1965-02-19,Rishon_LeZion,28,136,72,0,1,0,0,0,0
+236412979,Haim,Marom,male,1988-10-20,Petah_Tikva,16,122,102,0,1,0,1,1,0
+381781522,Gila,Zrihan,female,1973-02-26,Haifa,26,104,116,1,1,1,1,0,0
+235494511,Zeev,Yosef,male,2011-09-29,Be'er_Sheva,21,108,70,1,1,1,1,1,0
+287908206,Miri,Biran,female,1979-09-10,Petah_Tikva,26,115,78,1,1,1,1,0,1
+289707592,Shmuel,Sason,male,1924-02-10,Haifa,23,135,83,1,1,0,0,1,0
+263820208,Malka,Biton,female,2000-05-31,Bnei_Brak,19,91,73,1,1,0,1,0,0
+275814209,Avi,Yehudai,male,2007-10-25,Jerusalem,16,110,62,1,1,0,0,1,0
+314849742,Lilach,Nissan,female,2012-04-23,Bnei_Brak,21,104,107,0,1,0,0,1,1
+272037235,Nir,Yishai,male,1921-09-21,Be'er_Sheva,30,139,93,1,1,1,1,1,1
+315546332,Anat,Sharabi,female,1958-11-27,Be'er_Sheva,23,109,69,1,1,1,1,1,1
+320047469,Yaakov,Basson,male,1973-09-03,Bnei_Brak,20,84,99,1,1,1,1,0,0
+246135625,Yael,Yehuda,female,1980-04-05,Jerusalem,24,109,87,0,1,0,0,0,0
+235475719,Yehuda,Lerner,male,1964-03-13,Netanya,21,98,102,0,1,1,0,1,0
+235503108,Rachel,Dahan,female,1964-11-23,Jerusalem,19,127,83,1,1,1,1,0,0
+383686336,Aharon,Kasirer,male,1965-07-25,Holon,23,104,102,1,1,0,1,1,1
+258853532,Malka,Shiloni,female,1979-10-09,Be'er_Sheva,16,98,63,0,1,0,0,0,0
+297005074,Aviad,Shoshan,male,1969-06-19,Haifa,26,112,70,0,1,0,0,0,1
+238158212,Michal,Kadosh,female,1963-11-07,Jerusalem,27,86,96,1,1,0,1,1,1
+316363826,Hillel,Sabbag,male,1970-07-10,Ashdod,24,122,110,1,1,1,0,0,0
+351975528,Lilach,Sharabi,female,1970-07-29,Jerusalem,22,94,109,0,1,1,1,1,1
+368904207,Eran,Elbaz,male,1949-03-14,Haifa,25,86,62,1,1,1,0,0,0
+333031593,Maya,Zrihan,female,2002-03-01,Holon,28,139,85,0,1,1,1,1,1
+387027936,Reuven,Nissan,male,1948-05-12,Jerusalem,19,101,62,0,1,0,1,1,1
+219073555,Nira,Hakim,female,1933-04-11,Ashdod,25,96,73,0,1,1,1,0,1
+252177886,Yitzhak,Asulin,male,1985-06-05,Bnei_Brak,22,132,106,1,1,1,0,0,0
+357675542,Adi,Hakim,female,1937-08-02,Haifa,18,86,87,1,1,1,1,0,1
+343186681,Noam,Levi,male,1943-12-05,Rishon_LeZion,30,122,83,0,1,1,0,1,0
+377849341,Malka,Biton,female,1945-01-30,Haifa,28,94,106,0,1,1,1,0,1
+324420713,Eli,Amram,male,1994-02-09,Tel_Aviv-Yafo,18,98,63,0,1,1,1,1,0
+397417883,Yifat,Ohana,female,1965-10-09,Haifa,19,137,73,1,1,0,0,0,0
+220823371,Eitan,Shoshan,male,1936-01-26,Netanya,27,106,83,0,1,1,1,0,0
+385267465,Dikla,Sharabi,female,2009-10-11,Holon,29,139,62,1,1,0,1,1,1
+232295002,Omer,Abuhatzira,male,2018-04-25,Ashdod,19,104,83,0,1,1,0,0,1
+363324676,Gali,Amram,female,1937-02-01,Netanya,22,133,77,1,1,0,1,1,0
+375793863,Itai,Biton,male,2011-02-09,Be'er_Sheva,25,116,83,0,1,0,1,0,0
+369374885,Yifat,Sharabi,female,1979-06-30,Bnei_Brak,26,117,94,1,1,0,0,1,0
+307344325,Dov,Levi,male,1965-03-09,Petah_Tikva,27,132,92,0,1,1,1,0,0
+336420529,Gila,Kohn,female,1953-10-04,Jerusalem,30,110,68,1,1,1,1,1,1
+340529365,Gershon,Shamama,male,2009-04-17,Netanya,21,105,62,0,1,1,1,1,1
+321580938,Adi,Hakim,female,1974-08-09,Haifa,15,132,92,1,1,0,1,1,1
+211132926,Avi,Shabi,male,1975-08-04,Tel_Aviv-Yafo,25,83,73,0,1,0,0,1,0
+346360195,Neta,Hakim,female,1941-12-30,Bnei_Brak,20,96,68,0,1,1,1,1,0
+275449920,Yigal,Avraham,male,1965-02-02,Jerusalem,29,104,83,0,1,0,0,0,0
+274731836,Hodaya,Basson,female,1924-09-17,Rishon_LeZion,21,135,106,1,1,1,1,1,1
+312450511,Eitan,Yishai,male,1980-08-20,Ashdod,28,98,87,0,1,0,1,1,1
+331622021,Einat,Yehudai,female,1994-04-10,Be'er_Sheva,26,104,92,0,1,0,0,0,0
+272581090,Gershon,Peretz,male,1983-10-19,Bnei_Brak,15,88,96,1,1,1,1,1,0
+380263374,Dana,Yishai,female,1926-10-05,Jerusalem,27,117,92,0,1,0,1,1,0
+303500060,Gadi,Golan,male,2001-06-14,Tel_Aviv-Yafo,20,88,96,0,1,1,0,0,0
+215670504,Yifat,Huri,female,2006-04-02,Jerusalem,18,86,76,1,1,0,0,1,0
+322198454,Haim,Shabi,male,1926-03-18,Holon,21,121,110,1,1,1,1,1,0
+377087276,Tova,Eliyahu,female,1955-01-15,Ashdod,20,88,87,0,1,0,1,0,1
+301518156,Yisrael,Saada,male,1985-08-01,Rishon_LeZion,27,98,65,1,1,1,0,1,0
+237411503,Dalit,Yehudai,female,1948-03-23,Ashdod,26,113,96,1,1,0,0,0,0
+202239617,David,Golan,male,1962-07-02,Petah_Tikva,28,83,96,0,1,0,1,0,1
+295770354,Gila,Kaslassi,female,1948-09-02,Holon,27,112,85,0,1,0,1,0,0
+370805769,Omer,Rosenberg,male,1939-08-08,Be'er_Sheva,20,83,116,1,1,0,1,0,1
+233017735,Hodaya,Rosenberg,female,1997-06-20,Tel_Aviv-Yafo,16,113,116,1,1,1,1,0,1
+253531683,Noam,Efrati,male,2016-10-26,Netanya,25,96,62,1,1,0,1,0,1
+371322228,Efrat,Sulimani,female,1999-05-18,Petah_Tikva,15,136,63,0,1,1,0,0,1
+322963457,Yair,Shabi,male,1946-06-07,Haifa,29,86,77,1,1,1,0,1,1
+349209641,Dalit,Kadosh,female,1973-01-20,Petah_Tikva,15,123,68,0,1,1,0,1,0
+371862364,Uri,Sarusi,male,1940-02-24,Petah_Tikva,19,115,72,1,1,0,1,0,1
+226872242,Dana,Efrati,female,1998-05-17,Holon,21,104,77,1,1,1,0,1,0
+337616962,Daniel,Lerner,male,1963-10-28,Rishon_LeZion,24,122,96,0,1,1,0,0,0
+263401244,Tali,Biran,female,1971-04-10,Rishon_LeZion,23,122,117,0,1,0,0,1,1
+360673746,Reuven,Yehuda,male,2011-05-03,Petah_Tikva,16,86,102,0,1,0,1,1,1
+285632752,Dikla,Shamama,female,1993-10-25,Ashdod,21,122,94,0,1,0,0,1,1
+282363449,Zeev,Amir,male,1949-05-23,Tel_Aviv-Yafo,21,91,102,0,1,1,1,1,0
+324317517,Limor,Ohayon,female,1938-03-12,Bnei_Brak,30,115,92,1,1,1,1,0,0
+398372234,Amir,Dahan,male,1963-02-20,Tel_Aviv-Yafo,28,121,106,0,1,1,0,1,1
+383497572,Orit,Yehuda,female,1931-08-22,Tel_Aviv-Yafo,28,88,107,1,1,0,0,1,0
+242767891,Yitzhak,Sulimani,male,1951-05-15,Rishon_LeZion,25,135,72,0,1,0,0,0,0
+336614690,Adi,Biton,female,2010-08-04,Rishon_LeZion,18,136,117,1,1,1,0,0,1
+237319764,Yair,Timsit,male,1965-12-11,Tel_Aviv-Yafo,17,98,77,0,1,0,1,0,1
+355690969,Dalit,Amram,female,1933-02-21,Tel_Aviv-Yafo,17,122,107,1,1,0,1,1,1
+371551482,Yisrael,Saidoff,male,1980-05-06,Be'er_Sheva,19,99,72,1,1,0,1,1,0
+359617444,Rachel,Lerner,female,1922-01-14,Tel_Aviv-Yafo,17,127,80,1,1,0,0,1,1
+252346642,Uri,Yehuda,male,1933-03-01,Netanya,23,133,109,1,1,0,0,0,0
+345710563,Yifat,Nissan,female,1995-01-18,Ashdod,28,106,106,1,1,1,0,1,0
+285483627,Haim,Ohayon,male,1965-02-15,Petah_Tikva,16,96,109,0,1,0,1,0,0
+231918993,Yael,Kaplan,female,1943-09-16,Netanya,28,86,94,0,1,0,0,1,0
+354378026,Gershon,Timsit,male,1921-08-10,Ashdod,17,123,65,1,1,1,1,0,1
+201680770,Gali,Davidov,female,1928-01-26,Petah_Tikva,29,104,63,1,1,1,1,1,1
+300460605,Zeev,Salomon,male,1940-04-15,Tel_Aviv-Yafo,15,116,68,1,1,1,1,1,0
+280197713,Avigail,Shabi,female,1977-12-10,Holon,18,91,92,1,1,1,1,1,0
+399925981,Eli,Yehudai,male,1937-08-18,Netanya,27,86,106,0,1,1,1,1,0
+374156214,Shira,Shiloni,female,1982-09-04,Rishon_LeZion,24,135,58,1,1,0,1,1,0
+206418646,Ariel,Yehuda,male,1933-06-07,Petah_Tikva,18,106,65,0,1,1,1,0,1
+381099950,Dikla,Yosef,female,1982-08-21,Netanya,27,139,110,1,1,1,0,0,1
+216354744,Netanel,Saidoff,male,1960-03-17,Jerusalem,19,98,96,0,1,1,0,1,0
+279149620,Yael,Yehudai,female,2014-12-09,Tel_Aviv-Yafo,22,127,106,1,1,0,1,0,0
+346908398,Shimon,Malka,male,1942-03-20,Bnei_Brak,23,122,96,0,1,1,1,0,0
+268854796,Gali,Sabbag,female,1985-07-13,Bnei_Brak,29,135,96,0,1,0,1,0,0
+355613163,Yoni,Biton,male,1933-03-06,Petah_Tikva,27,121,109,0,1,1,1,1,1
+203331823,Anat,Kaplan,female,2018-06-21,Rishon_LeZion,30,111,77,0,1,1,1,1,0
+390512840,Avraham,Avraham,male,1930-08-11,Haifa,22,132,104,0,1,0,0,0,0
+305460789,Batya,Yehudai,female,1928-04-04,Be'er_Sheva,30,91,76,0,1,1,1,0,3
+326307299,Zeev,Basson,male,2016-02-06,Jerusalem,28,114,108,1,1,0,1,1,0
+393078800,Tamar,Kadosh,female,1930-01-09,Rishon_LeZion,30,122,96,1,1,1,0,1,0
+324218226,Dov,Kasirer,male,2013-07-02,Jerusalem,26,127,108,1,1,1,0,0,0
+248144326,Orit,Shemesh,female,1935-10-15,Jerusalem,28,83,80,1,1,1,1,0,1
+337059407,Eitan,Nissan,male,2013-12-07,Be'er_Sheva,17,94,107,1,1,1,0,0,0
+356009115,Gali,Timsit,female,2001-11-04,Rishon_LeZion,29,122,77,0,1,1,0,1,1
+219557986,Yitzhak,Gross,male,1990-02-09,Petah_Tikva,22,96,106,1,1,1,0,1,0
+250379549,Natalie,Salomon,female,1988-01-30,Ashdod,27,136,70,1,1,1,0,0,0
+351320629,Eli,Shitrit,male,1946-01-21,Ashdod,16,104,80,1,1,1,0,1,1
+224458820,Maya,Kfir,female,1956-11-09,Petah_Tikva,24,105,78,1,1,0,0,0,0
+278612748,Avraham,Davidov,male,1956-09-01,Ashdod,27,94,116,0,1,0,1,0,1
+373706325,Dafna,Sabbag,female,1968-05-12,Tel_Aviv-Yafo,20,83,106,0,1,1,1,1,1
+266271428,Avraham,Kasirer,male,1920-07-09,Tel_Aviv-Yafo,17,116,63,1,1,0,1,1,1
+348063226,Noga,Kamisa,female,1949-08-16,Petah_Tikva,18,94,110,0,1,1,1,0,0
+300507533,Shmuel,Alfasi,male,2011-07-22,Jerusalem,15,135,94,1,1,0,1,1,0
+338954862,Chana,Kahana,female,1946-05-26,Netanya,17,104,109,1,1,0,0,0,1
+237233728,Uri,Malka,male,2013-01-02,Tel_Aviv-Yafo,18,122,72,1,1,0,1,0,0
+367446668,Gali,Dayan,female,1994-04-16,Be'er_Sheva,21,126,80,0,1,0,1,0,1
+374991464,Eran,Kaslassi,male,1929-09-04,Tel_Aviv-Yafo,15,114,101,0,1,0,0,0,1
+276692870,Hadar,Sarusi,female,1959-09-16,Jerusalem,23,132,67,0,1,1,1,0,0
+239272722,Doron,Biton,male,1987-03-12,Holon,17,115,87,1,1,1,1,1,0
+265731123,Orit,Hasson,female,1942-11-16,Petah_Tikva,21,86,96,0,1,1,0,0,0
+228866440,Nir,Cohen,male,1954-09-06,Be'er_Sheva,27,136,77,0,1,1,0,1,0
+243739780,Tzipora,Sason,female,1995-11-19,Netanya,24,113,77,0,1,0,0,0,1
+324907532,Yaakov,Peretz,male,2013-08-19,Holon,20,104,104,0,1,1,0,0,0
+299591738,Neta,Mizrachi,female,1939-12-20,Holon,26,96,73,0,1,0,1,1,1
+276352210,Uri,Kadosh,male,1964-05-23,Ashdod,17,122,63,1,1,0,1,0,0
+310660871,Tzipora,Golan,female,1971-04-02,Tel_Aviv-Yafo,22,104,110,0,1,0,1,1,1
+206472960,Itai,Elmaliah,male,1949-08-29,Ashdod,22,94,73,1,1,0,1,1,0
+376944888,Rivka,Saidoff,female,1933-07-26,Be'er_Sheva,18,116,106,1,1,0,0,0,1
+304981186,Eran,Yishai,male,1944-02-12,Petah_Tikva,28,123,107,0,1,0,1,1,0
+340241210,Noa,Ayalon,female,1943-10-08,Haifa,25,127,87,1,1,0,0,1,1
+392043706,Noam,Yishai,male,1939-01-18,Be'er_Sheva,21,127,109,0,1,1,0,1,1
+345389831,Orit,Kfir,female,1952-07-18,Holon,28,104,70,0,1,0,0,0,2
+397274877,Itai,Salomon,male,1923-12-24,Rishon_LeZion,29,104,63,0,1,1,1,0,1
+268975905,Dana,Yosef,female,2013-05-11,Tel_Aviv-Yafo,21,112,63,1,1,0,0,1,1
+328420854,Eli,Elbaz,male,2016-05-11,Tel_Aviv-Yafo,16,110,74,1,1,1,0,1,0
+353224800,Sigal,Kfir,female,1941-04-30,Rishon_LeZion,23,123,109,0,1,1,1,0,1
+290950171,Zohar,Khalifa,male,1999-12-25,Petah_Tikva,15,86,106,1,1,0,0,1,0
+232921605,Malka,Amram,female,1945-06-05,Be'er_Sheva,17,114,65,1,1,0,0,0,1
+206648102,Omer,Alouf,male,2011-01-18,Tel_Aviv-Yafo,17,104,99,0,1,1,0,1,1
+251357779,Eden,Sabag,female,2011-08-02,Bnei_Brak,26,114,117,1,1,1,0,1,0
+391789671,Shimon,Amram,male,1980-01-28,Netanya,19,98,90,0,1,0,1,0,1
+208077654,Dalit,Efrati,female,2006-07-03,Jerusalem,26,82,65,1,1,0,0,1,0
+341305683,Yisrael,Amsalem,male,1973-04-19,Bnei_Brak,22,135,106,0,1,1,0,0,0
+311487128,Yiska,Biton,female,2004-04-19,Netanya,26,104,72,1,1,1,0,1,1
+223255899,Binyamin,Kasirer,male,1920-07-30,Petah_Tikva,23,135,58,1,1,1,0,0,0
+225695248,Tova,Zrihan,female,1920-01-26,Haifa,22,121,77,1,1,0,1,0,0
+235690715,Yitzhak,Kahana,male,1986-09-30,Be'er_Sheva,24,126,85,1,1,1,1,0,1
+353318250,Ruth,Yaron,female,1940-05-30,Be'er_Sheva,23,133,96,0,1,1,0,1,0
+208735926,Aviad,Kadosh,male,1951-08-16,Tel_Aviv-Yafo,27,109,109,1,1,1,1,0,1
+236812456,Yifat,Hasson,female,1951-02-24,Haifa,20,132,72,1,1,0,0,1,0
+258817222,Nadav,Elmaliah,male,2011-12-07,Ashdod,26,99,63,1,1,0,1,0,1
+261646875,Hadar,Khalifa,female,2009-11-09,Ashdod,19,132,68,0,1,1,1,0,0
+290399480,Omer,Dayan,male,1960-10-08,Petah_Tikva,26,136,96,0,1,1,1,0,0
+361434130,Hila,Lerner,female,2017-08-14,Holon,17,113,106,0,1,0,0,0,1
+230520557,Dov,Yerushalmi,male,1952-04-18,Ashdod,18,117,85,0,1,1,1,1,1
+318721315,Sigal,Gross,female,1932-01-17,Be'er_Sheva,28,106,74,0,1,1,0,1,0
+277478942,Nir,Carmeli,male,1993-03-19,Holon,21,96,104,1,1,1,1,0,1
+210680107,Natalie,Huri,female,1928-02-05,Netanya,24,126,69,1,1,0,0,1,1
+319861685,Yigal,Shiloni,male,1998-09-23,Jerusalem,29,138,109,1,1,1,0,1,0
+232183382,Dafna,Sulimani,female,1949-12-16,Jerusalem,26,104,101,0,1,0,0,0,1
+339830375,Omer,Lavie,male,1955-01-27,Jerusalem,17,137,85,0,1,1,0,1,0
+226587544,Gali,Azoulay,female,1994-01-23,Bnei_Brak,22,86,68,0,1,0,1,1,0
+297884624,Yisrael,Davidov,male,1952-08-22,Rishon_LeZion,19,126,107,0,1,1,1,1,0
+326037553,Rivka,Hakim,female,1999-01-20,Bnei_Brak,18,94,104,1,1,1,0,0,0
+388521035,Noam,Lavie,male,1979-06-03,Rishon_LeZion,20,139,110,1,1,0,1,0,0
+376233681,Yiska,Alouf,female,2006-02-27,Tel_Aviv-Yafo,18,115,67,1,1,0,1,1,0
+285061521,Mordechai,Elmaliah,male,1945-01-01,Tel_Aviv-Yafo,18,94,109,0,1,0,1,1,1
+343662204,Gali,Hasson,female,2016-05-22,Jerusalem,21,115,58,0,1,0,0,0,2
+358624110,Eitan,Davidov,male,1968-11-12,Rishon_LeZion,27,94,96,0,1,0,1,1,1
+260013540,Gila,Avraham,female,1997-02-15,Haifa,24,115,92,0,1,1,0,0,3
+290541973,Yosef,Zrihan,male,1964-02-08,Holon,27,101,106,0,1,1,0,0,0
+218368362,Shira,Yishai,female,1965-12-22,Bnei_Brak,16,122,76,1,1,1,0,0,0
+262891974,Shmuel,Kasirer,male,1971-12-21,Bnei_Brak,17,109,94,1,1,1,0,1,1
+211486625,Nira,Salomon,female,1970-06-14,Jerusalem,29,104,76,0,1,1,1,0,1
+239200561,Zeev,Biton,male,1922-11-26,Be'er_Sheva,19,114,106,0,1,0,1,0,0
+322158222,Maya,Darmon,female,2017-02-21,Bnei_Brak,20,112,67,1,1,0,1,0,0
+375795904,Shmuel,Shiloni,male,1967-09-10,Jerusalem,15,104,106,1,1,1,0,1,0
+269061199,Keren,Abuhatzira,female,1939-06-19,Bnei_Brak,27,88,68,0,1,0,1,1,0
+318937554,Yosef,Biran,male,1972-09-14,Ashdod,15,117,67,1,1,0,1,1,0
+245293535,Sigal,Saidoff,female,1951-01-19,Haifa,22,115,85,0,1,1,1,1,1
+371875198,Zohar,Sabag,male,2013-07-24,Tel_Aviv-Yafo,26,123,72,1,1,0,1,1,1
+277820963,Gila,Avraham,female,1931-03-03,Ashdod,22,86,94,0,1,0,1,1,0
+228253888,Yaniv,Alouf,male,1960-06-07,Petah_Tikva,29,86,74,1,1,1,1,0,0
+315105832,Shira,Rosenberg,female,1986-12-11,Be'er_Sheva,22,98,93,0,1,1,1,1,0
+247306664,Mordechai,Basson,male,1971-12-30,Rishon_LeZion,15,137,77,1,1,0,0,1,1
+260211825,Batya,Kaslassi,female,1972-01-28,Holon,28,101,107,1,1,0,1,0,0
+347719851,Eitan,Cohen,male,2005-01-11,Bnei_Brak,24,135,102,1,1,0,1,0,0
+236376919,Leah,Sabag,female,1984-05-22,Bnei_Brak,24,105,110,1,1,1,1,0,0
+332719041,Nir,Avraham,male,1972-05-21,Netanya,21,111,116,0,1,1,0,1,0
+315285042,Rachel,Dahan,female,1958-06-10,Petah_Tikva,21,121,83,1,1,1,1,0,0
+235525020,Yoni,Saada,male,2011-05-30,Bnei_Brak,30,96,72,1,1,1,1,0,1
+205777899,Einat,Avraham,female,1986-12-30,Petah_Tikva,27,136,76,1,1,1,1,0,0
+385267486,Menachem,Kamisa,male,1996-07-30,Bnei_Brak,15,82,93,0,1,1,1,1,1
+314083074,Eden,Shabi,female,1941-07-23,Holon,17,104,63,1,1,1,1,1,0
+339711715,Itai,Avraham,male,1948-09-24,Be'er_Sheva,16,99,99,1,1,0,1,0,0
+242543711,Rachel,Nissan,female,2012-02-18,Netanya,29,126,106,0,1,0,1,0,0
+210483506,Noam,Rosenberg,male,2007-02-22,Ashdod,28,88,108,0,1,0,1,1,0
+344949822,Einat,Rosenberg,female,1960-01-27,Be'er_Sheva,24,115,62,0,1,1,0,0,1
+318819014,Shai,Gavriel,male,1955-09-13,Ashdod,20,86,107,0,1,1,1,0,0
+362157971,Hodaya,Lavie,female,1993-03-27,Rishon_LeZion,29,104,85,0,1,1,1,0,1
+323122796,Itai,Yehuda,male,1939-09-17,Ashdod,24,104,99,0,1,1,0,0,0
+225990645,Lilach,Kadosh,female,1947-05-08,Be'er_Sheva,17,112,106,0,1,1,1,0,1
+290182976,Menachem,Kohn,male,1941-02-05,Bnei_Brak,26,82,106,1,1,1,0,0,0
+315858242,Efrat,Saidoff,female,1967-04-16,Ashdod,21,137,73,1,1,0,1,0,0
+247183831,Binyamin,Elmaliah,male,1958-01-18,Rishon_LeZion,15,117,92,0,1,1,0,0,0
+301016580,Noa,Alfasi,female,1953-10-27,Be'er_Sheva,15,136,67,0,1,1,1,0,1
+270637152,Amir,Efrati,male,1985-03-10,Tel_Aviv-Yafo,23,98,80,1,1,0,0,0,0
+275580528,Limor,Amram,female,1986-02-08,Be'er_Sheva,18,88,96,0,1,0,0,1,1
+224492942,Eran,Abuhatzira,male,2018-01-22,Rishon_LeZion,16,135,63,1,1,1,0,0,0
+250597492,Efrat,Malka,female,1972-05-10,Netanya,27,99,106,0,1,0,0,0,1
+377755715,Shimon,Amram,male,1958-04-06,Haifa,18,116,96,0,1,0,1,1,0
+262931674,Efrat,Shemesh,female,1989-06-26,Netanya,29,83,62,1,1,0,1,1,1
+232309675,Noam,Marom,male,1982-05-13,Netanya,22,132,107,0,1,1,1,1,0
+308341710,Keren,Shiloni,female,1979-06-27,Rishon_LeZion,21,123,101,0,1,1,0,0,0
+242857210,Shimon,Kohn,male,1923-10-14,Jerusalem,26,88,83,1,1,0,0,0,0
+288622310,Yonit,Huri,female,1972-01-05,Bnei_Brak,26,104,83,1,1,1,1,0,0
+255958600,Ariel,Shamama,male,1973-10-29,Ashdod,18,113,102,1,1,0,0,1,1
+327658178,Lilach,Shamama,female,1984-10-27,Ashdod,25,104,63,0,1,1,1,0,1
+221519331,Omer,Darmon,male,1920-03-03,Petah_Tikva,21,91,83,0,1,0,0,1,1
+274611665,Orit,Sulimani,female,1942-07-01,Tel_Aviv-Yafo,23,136,80,0,1,0,0,1,1
+232750764,Noam,Yerushalmi,male,1952-07-28,Ashdod,24,126,80,0,1,1,0,0,1
+349913231,Ruth,Biton,female,2012-01-09,Petah_Tikva,16,117,94,1,1,1,0,1,1
+230590106,Yehuda,Saada,male,1983-05-18,Petah_Tikva,26,91,117,1,1,1,0,0,1
+363108302,Avigail,Sason,female,1996-03-21,Holon,24,135,104,0,1,0,0,1,1
+321592848,Zeev,Elbaz,male,1940-12-27,Holon,30,98,99,0,1,1,1,1,1
+290235758,Adi,Sarusi,female,2002-03-18,Haifa,28,115,78,1,1,0,1,1,1
+360139689,Shlomo,Azoulay,male,1962-12-23,Rishon_LeZion,29,109,62,0,1,1,1,1,1
+396165552,Adi,Ayalon,female,1961-08-10,Holon,18,117,68,0,1,0,0,0,0
+338719454,Uri,Abuhatzira,male,1940-12-28,Rishon_LeZion,29,96,101,1,1,0,0,1,1
+305861665,Yifat,Carmeli,female,1995-07-06,Ashdod,15,96,116,0,1,0,0,1,1
+208073374,David,Gavriel,male,1962-08-25,Tel_Aviv-Yafo,26,86,70,0,1,0,1,1,0
+264298825,Dalit,Gavriel,female,1921-05-19,Jerusalem,16,136,73,0,1,1,1,1,1
+280949526,Nir,Gavriel,male,1958-10-11,Bnei_Brak,29,88,109,1,1,1,1,1,1
+303125330,Rachel,Ohayon,female,1963-07-20,Rishon_LeZion,28,98,99,0,1,0,0,1,1
+394230228,Zeev,Abuhatzira,male,1956-01-09,Be'er_Sheva,15,104,108,1,1,0,0,0,0
+302330023,Hodaya,Dayan,female,1961-03-10,Netanya,25,132,101,1,1,1,0,1,1
+244705986,Yair,Amram,male,1971-11-09,Petah_Tikva,20,98,68,0,1,1,0,1,1
+350462246,Yifat,Shamama,female,1963-06-12,Jerusalem,28,96,58,1,1,0,1,1,0
+219577822,Yehoshua,Rosenberg,male,1941-11-18,Jerusalem,26,111,106,1,1,0,0,1,0
+396130767,Tova,Malka,female,1964-12-19,Netanya,16,135,73,0,1,0,0,1,1
+321607710,Meir,Lavie,male,1941-10-15,Netanya,23,98,88,0,1,0,1,1,2
+317015478,Sigal,Elmaliah,female,2012-11-21,Ashdod,20,94,58,0,1,0,0,0,1
+261403161,Yotam,Shemesh,male,1945-09-13,Bnei_Brak,20,132,94,0,1,1,0,0,0
+280517821,Orly,Lavie,female,1947-12-18,Jerusalem,18,110,73,0,1,1,1,1,0
+305674144,Yitzhak,Efrati,male,1930-08-16,Tel_Aviv-Yafo,19,111,108,0,1,1,0,0,1
+254341820,Rachel,Yehudai,female,1987-10-01,Rishon_LeZion,26,105,73,0,1,1,1,0,1
+391847445,Eitan,Yehuda,male,1971-12-05,Bnei_Brak,16,136,90,1,1,1,0,0,1
+277040325,Tova,Shiloni,female,2013-04-05,Tel_Aviv-Yafo,25,135,83,1,1,1,1,1,1
+218990898,Eitan,Kfir,male,1943-09-26,Be'er_Sheva,17,83,62,1,1,1,1,1,0
+352825421,Neta,Basson,female,1921-06-18,Bnei_Brak,26,135,109,0,1,0,1,1,1
+266788506,Zeev,Efrati,male,1971-09-06,Netanya,21,109,74,0,1,1,1,0,0
+319108659,Eden,Timsit,female,1950-06-06,Haifa,29,104,117,0,1,1,0,1,0
+220258540,Binyamin,Yerushalmi,male,1962-05-02,Rishon_LeZion,29,114,72,0,1,1,1,0,0
+311230098,Eden,Asulin,female,1988-12-28,Be'er_Sheva,25,99,107,0,1,0,0,0,0
+394415694,Dov,Shitrit,male,1983-09-19,Ashdod,18,127,73,1,1,0,1,0,0
+209744369,Dalit,Sabag,female,2002-05-25,Rishon_LeZion,26,136,102,0,1,0,1,1,0
+234694503,Aviad,Yosef,male,2009-04-10,Tel_Aviv-Yafo,19,91,109,1,1,0,1,1,0
+352106815,Lilach,Lavie,female,1954-09-18,Jerusalem,21,111,106,1,1,1,1,1,1
+242496761,Shai,Gavriel,male,1958-07-05,Netanya,15,98,85,1,1,0,0,0,0
+269852012,Michal,Nissan,female,1975-03-16,Bnei_Brak,16,83,116,1,1,0,1,0,0
+286536837,Daniel,Yehudai,male,1948-01-22,Jerusalem,20,109,93,0,1,0,0,0,1
+380058750,Yonit,Alouf,female,1950-08-06,Netanya,20,136,80,0,1,0,0,0,1
+282424102,Yair,Saidoff,male,1936-02-24,Holon,17,104,94,1,1,0,0,1,0
+314452877,Dalit,Mizrachi,female,1987-12-28,Haifa,16,105,96,0,1,0,0,1,1
+296791339,Yehuda,Gross,male,2019-02-28,Be'er_Sheva,22,98,108,0,1,1,0,0,1
+208437784,Dafna,Salomon,female,1946-12-12,Holon,20,83,110,0,1,0,0,1,0
+253886674,Zvi,Avraham,male,1966-04-27,Ashdod,25,111,85,1,1,0,0,1,0
+217204439,Chana,Shemesh,female,1930-01-16,Haifa,25,117,94,1,1,0,1,1,0
+303324734,Natan,Kfir,male,2015-02-26,Jerusalem,30,88,65,0,1,0,0,1,0
+248986615,Nira,Huri,female,1983-10-01,Petah_Tikva,17,105,63,0,1,0,1,1,1
+321972860,Mordechai,Shemesh,male,1941-02-23,Petah_Tikva,20,138,74,0,1,0,1,1,0
+255259907,Shaked,Sabag,female,1990-07-09,Netanya,20,104,63,1,1,0,0,1,1
+330658594,Shlomo,Kahlon,male,2004-08-07,Petah_Tikva,16,82,107,1,1,1,0,1,0
+390102640,Noa,Biton,female,1972-02-03,Ashdod,23,122,101,1,1,0,0,0,1
+303633385,Gershon,Amsalem,male,1955-08-29,Haifa,26,88,58,0,1,1,0,1,0
+264575472,Noga,Amram,female,2014-06-07,Ashdod,27,114,72,0,1,0,1,0,1
+394169573,Yehoshua,Shabi,male,1955-09-23,Ashdod,25,132,63,1,1,0,0,0,0
+250924123,Eden,Azoulay,female,1923-04-18,Netanya,20,132,67,0,1,1,1,1,0
+236739764,Meir,Yishai,male,2002-06-17,Rishon_LeZion,15,108,104,1,1,1,0,1,1
+210017204,Eden,Dayan,female,1975-02-09,Holon,18,86,85,1,1,0,0,0,1
+293404444,Gershon,Kasirer,male,1926-12-09,Netanya,15,82,68,0,1,0,1,1,1
+348028439,Sigal,Shemesh,female,1991-02-01,Tel_Aviv-Yafo,16,135,99,0,1,0,1,1,0
+216514571,Gadi,Asulin,male,2008-04-29,Petah_Tikva,22,135,63,0,1,0,0,1,0
+232508927,Avigail,Sabbag,female,2011-11-06,Netanya,19,113,63,1,1,0,1,1,1
+321295472,Yehoshua,Shiloni,male,1932-07-26,Bnei_Brak,26,133,104,1,1,0,1,0,2
+210173129,Noa,Salomon,female,1921-11-23,Rishon_LeZion,18,123,78,1,1,0,0,0,0
+244979765,Avi,Sabbag,male,2010-11-03,Holon,24,111,106,1,1,1,0,1,0
+284604490,Hila,Levi,female,1975-05-27,Bnei_Brak,15,104,110,0,1,1,0,0,1
+259503073,Yotam,Sabag,male,2015-10-01,Netanya,19,117,74,1,1,0,1,1,0
+265416605,Nira,Yishai,female,1938-12-31,Be'er_Sheva,21,113,107,1,1,0,0,1,1
+200890023,Eitan,Biton,male,1923-10-04,Kibbutz Ma'agan Michael,26,96,117,0,1,0,0,1,0
+282977251,Rivka,Mizrachi,female,1944-10-29,Kibbutz Givat Brenner,30,136,117,0,1,1,0,0,2
+377861746,Yair,Dahan,male,1961-07-03,Kibbutz Beit HaEmek,26,106,78,0,1,1,0,1,0
+305438226,Nurit,Khalifa,female,1988-05-31,Kibbutz Givat Brenner,28,96,106,1,1,0,0,1,0
+255205804,Mordechai,Golan,male,1959-02-21,Kibbutz Givat Brenner,16,132,96,1,1,0,0,1,0
+331817799,Shira,Shitrit,female,1939-03-29,Kibbutz Sde Eliyahu,23,111,83,1,1,1,0,0,0
+346016516,Ariel,Alouf,male,2007-05-13,Kibbutz Beit HaEmek,18,98,107,1,1,1,1,1,2
+223974421,Rachel,Efrati,female,1944-02-21,Kibbutz Yotvata,28,91,107,0,1,1,1,1,1
+354333224,Avi,Sarusi,male,1927-04-12,Kibbutz Beit HaEmek,22,115,92,1,1,0,1,1,1
+298561791,Leah,Dayan,female,1952-04-24,Kibbutz Sde Boker,23,112,83,1,1,1,0,0,0
+255450516,Eran,Asulin,male,1928-05-08,Kibbutz Sde Nahum,17,82,62,0,1,0,0,0,0
+334501441,Neta,Nissan,female,1921-10-10,Kibbutz Ma'agan Michael,24,104,96,0,1,1,0,1,1
+387973972,Zvi,Carmeli,male,2013-05-27,Kibbutz Givat Brenner,16,94,117,0,1,0,1,0,0
+389807709,Tzipora,Amir,female,2006-08-25,Kibbutz Givat Brenner,16,133,92,1,1,1,1,1,0
+337173099,Amir,Salomon,male,1939-08-23,Kibbutz Nahsholim,21,99,76,1,1,1,1,0,0
+329515930,Eden,Ayalon,female,2015-08-25,Kibbutz Sde Eliyahu,25,137,80,0,1,0,0,1,1
+396921376,Netanel,Asulin,male,1934-12-28,Kibbutz Ein Harod,17,133,74,1,1,1,1,1,0
+335378605,Yiska,Yishai,female,1966-10-11,Kibbutz Beit HaEmek,30,82,69,0,1,1,1,0,1
+395482419,Yaniv,Levi,male,1921-12-25,Kibbutz Ein Gev,27,94,90,0,1,1,0,0,1
+395244280,Shaked,Asulin,female,1995-05-22,Kibbutz Sde Eliyahu,21,111,77,0,1,1,0,0,0
+343507331,Dov,Gross,male,2019-11-14,Kibbutz Sde Eliyahu,17,137,69,1,1,1,1,1,0
+347750809,Nira,Hakim,female,2009-06-14,Kibbutz Sde Nahum,30,91,63,0,1,1,0,0,0
+336582724,Nir,Shemesh,male,1950-06-11,Kibbutz Ma'agan Michael,15,113,77,1,1,0,0,0,0
+315527327,Hila,Levi,female,1999-01-11,Kibbutz Nahsholim,22,136,96,1,1,0,1,1,0
+390518573,Shai,Saada,male,2010-05-13,Kibbutz Sde Eliyahu,20,101,80,0,1,0,0,0,0
+283156477,Adi,Levi,female,1970-03-27,Kibbutz Beit HaEmek,24,122,83,0,1,1,1,0,1
+224614126,Amir,Moyal,male,1944-12-03,Kibbutz Yotvata,20,132,90,1,1,1,1,1,1
+357708085,Hadar,Alouf,female,1972-07-13,Kibbutz Ma'agan Michael,23,94,101,0,1,1,0,0,1
+338260362,Avraham,Efrati,male,1967-08-13,Kibbutz Ein Harod,17,98,85,1,1,0,1,0,0
+382203172,Orit,Biton,female,1946-11-15,Kibbutz Sde Boker,18,117,72,0,1,1,1,1,1
+319092142,Shimon,Elmaliah,male,1964-06-13,Kibbutz Sde Boker,27,135,72,0,1,0,1,0,1
+367967421,Tova,Amsalem,female,2002-06-15,Kibbutz Sde Boker,24,111,68,0,1,1,0,0,0
+337499376,Itai,Amir,male,1967-05-24,Kibbutz Sde Boker,23,127,117,0,1,0,0,0,1
+298987656,Yifat,Efrati,female,1983-08-26,Kibbutz Beit HaEmek,30,96,104,0,1,1,1,1,0
+328618067,Dov,Abuhatzira,male,1950-03-11,Kibbutz Yotvata,26,126,109,1,1,0,1,1,1
+395440790,Maya,Yosef,female,1966-06-02,Kibbutz Sde Nahum,21,101,104,0,1,1,0,1,1
+329455194,David,Bokobza,male,1956-06-20,Kibbutz Sde Eliyahu,29,94,62,1,1,0,1,0,0
+271561979,Adi,Elmaliah,female,1970-09-16,Kibbutz Sde Boker,16,82,111,0,1,0,1,0,1
+397364991,Mordechai,Davidov,male,2012-02-03,Kibbutz Givat Brenner,30,98,74,0,1,1,1,0,0
+386959606,Tamar,Amsalem,female,1990-03-30,Kibbutz Givat Brenner,20,132,74,0,1,1,1,1,0
+313218528,Dov,Moyal,male,2001-09-17,Kibbutz Sde Eliyahu,17,138,73,0,1,1,0,0,1
+278832516,Hagit,Amsalem,female,2004-02-29,Kibbutz Ein Harod,27,117,63,0,1,0,1,0,1
+299394339,Netanel,Carmeli,male,1947-09-11,Kibbutz Ma'agan Michael,21,113,101,1,1,1,1,0,0
+295656764,Einat,Asulin,female,1953-01-07,Kibbutz Yotvata,21,94,70,0,1,0,1,1,0
+223785371,Yotam,Amsalem,male,1955-09-15,Kibbutz Ein Gev,22,82,116,1,1,0,1,1,0
+330120459,Anat,Yerushalmi,female,1966-04-01,Kibbutz Sde Eliyahu,15,132,94,0,1,0,0,0,0
+250921110,Shimon,Khalifa,male,1993-04-27,Kibbutz Ein Harod,30,104,68,1,1,0,1,0,1
+249648548,Eden,Kamisa,female,1943-01-20,Kibbutz Ma'agan Michael,25,91,77,1,1,0,1,0,0
+291137687,Dov,Rosenberg,male,1940-10-01,Kibbutz Ein Gev,21,83,74,1,1,0,1,0,0
+248708885,Einat,Sabbag,female,2001-11-27,Kibbutz Beit HaEmek,28,133,70,0,1,1,0,0,1
+219305353,Yaniv,Yehuda,male,1969-06-15,Kibbutz Ma'agan Michael,29,104,111,0,1,1,0,1,1
+213566913,Lilach,Marom,female,1987-04-14,Kibbutz Givat Brenner,16,104,69,0,1,1,0,1,0
+225382223,Eitan,Kaplan,male,2008-11-14,Kibbutz Nahsholim,19,104,96,0,1,1,0,1,0
+238040295,Miri,Yishai,female,1970-06-10,Kibbutz Yotvata,28,112,107,0,1,0,1,1,0
+295099175,Avraham,Asulin,male,1998-08-26,Kibbutz Yotvata,28,101,68,0,1,1,0,0,0
+205987240,Hila,Biton,female,1980-07-22,Kibbutz Sde Boker,29,108,107,0,1,0,1,0,1
+386220570,Avraham,Lerner,male,2012-09-05,Kibbutz Sde Boker,30,133,107,1,1,0,0,0,1
+315361918,Dikla,Lavie,female,1952-11-12,Kibbutz Sde Nahum,22,110,63,1,1,1,0,0,1
+205027734,Menachem,Nissan,male,1973-04-24,Kibbutz Sde Nahum,15,96,106,1,1,0,0,1,0
+306522143,Batya,Yaron,female,2003-05-12,Kibbutz Sde Eliyahu,16,116,99,1,1,0,1,1,1
+260575534,Dov,Cohen,male,2016-04-14,Kibbutz Ma'agan Michael,30,115,104,1,1,1,0,0,1
+379621340,Dalit,Bokobza,female,1984-12-19,Kibbutz Sde Boker,25,135,109,0,1,1,0,1,1
+336409686,Zvi,Rosenberg,male,1928-12-24,Kibbutz Yotvata,29,101,74,1,1,1,1,0,3
+212017381,Sigal,Nissan,female,1982-05-28,Kibbutz Ma'agan Michael,30,101,106,1,1,0,1,1,1
+219599269,Omer,Mizrachi,male,1959-04-26,Kibbutz Sde Boker,16,104,87,0,1,0,1,1,0
+333421753,Ruth,Nissan,female,1931-05-05,Kibbutz Ein Harod,22,137,104,1,1,1,0,0,1
+277128811,Shai,Yishai,male,2006-06-29,Kibbutz Beit HaEmek,15,96,63,0,1,1,0,1,0
+253214353,Lilach,Shamama,female,1941-11-19,Kibbutz Nahsholim,29,106,77,1,1,0,1,0,1
+302065332,Yehoshua,Kamisa,male,1929-11-24,Kibbutz Ein Harod,25,115,106,1,1,1,0,1,1
+302950606,Eden,Shoshan,female,1921-01-08,Kibbutz Ma'agan Michael,15,91,74,0,1,1,0,0,2
+330509917,Nir,Avraham,male,1947-09-02,Kibbutz Sde Eliyahu,22,113,68,1,1,0,0,0,0
+210224164,Nira,Kfir,female,1956-02-11,Kibbutz Ein Gev,19,114,83,0,1,0,0,1,0
+325094389,Menachem,Golan,male,1928-04-15,Kibbutz Ma'agan Michael,28,127,73,0,1,0,0,1,0
+320162506,Dafna,Lavie,female,1986-03-14,Kibbutz Givat Brenner,16,96,99,1,1,1,1,0,1
+304704942,Uri,Ohana,male,2010-09-04,Kibbutz Ein Gev,18,99,107,1,1,1,1,1,0
+379661124,Yael,Alfasi,female,1990-07-05,Kibbutz Beit HaEmek,27,104,116,0,1,0,1,0,0
+313345924,Meir,Yehuda,male,2006-12-12,Kibbutz Sde Eliyahu,25,88,80,0,1,0,1,1,2
+204434811,Keren,Kahana,female,1972-03-15,Kibbutz Sde Eliyahu,28,98,83,0,1,0,1,0,2
+258261316,Avi,Golan,male,1929-08-19,Kibbutz Beit HaEmek,24,117,116,0,1,1,0,0,0
+224846007,Nira,Kfir,female,1943-10-10,Kibbutz Ein Gev,30,96,106,0,1,1,1,0,2
+293314582,Natan,Nissan,male,1977-01-10,Kibbutz Sde Boker,22,88,96,0,1,1,0,1,3
+249538014,Yonit,Biran,female,1975-09-18,Kibbutz Ein Gev,20,115,73,1,1,0,0,1,1
+290734165,Yitzchak,Kadosh,male,1928-07-27,Kibbutz Ein Harod,16,86,77,0,1,1,1,1,1
+365718080,Tzipora,Avraham,female,2007-12-27,Kibbutz Sde Boker,28,136,77,0,1,1,1,0,0
+210169650,Daniel,Gavriel,male,1957-10-23,Kibbutz Sde Boker,30,136,96,1,1,1,1,0,1
+265146084,Dafna,Golan,female,1941-11-10,Kibbutz Sde Boker,15,98,101,0,1,0,1,0,0
+290915220,Yigal,Cohen,male,1996-09-06,Kibbutz Sde Nahum,28,136,85,0,1,0,0,0,1
+283065664,Orly,Saidoff,female,1994-12-14,Kibbutz Givat Brenner,30,88,83,0,1,1,0,0,0
+311158735,Gadi,Eliyahu,male,1973-10-14,Kibbutz Sde Boker,21,98,92,1,1,0,0,1,0
+327674116,Yifat,Bokobza,female,1951-01-05,Kibbutz Beit HaEmek,17,113,77,0,1,0,1,0,0
+265472753,Ariel,Marom,male,2002-03-18,Kibbutz Givat Brenner,27,86,67,1,1,0,1,1,1
+312891919,Hagit,Sarusi,female,1972-01-21,Kibbutz Nahsholim,23,112,85,0,1,1,1,1,0
+316824863,Yisrael,Shiloni,male,2002-11-28,Kibbutz Ein Gev,24,109,93,0,1,1,0,0,0
+356226901,Keren,Kfir,female,2005-04-22,Kibbutz Yotvata,27,104,83,0,1,1,1,1,1
+248531830,Zohar,Elmaliah,male,1982-11-13,Kibbutz Sde Eliyahu,17,117,69,1,1,0,0,0,3
+375457924,Yael,Ohana,female,2019-07-30,Kibbutz Ma'agan Michael,23,84,107,1,1,0,1,0,3
+263791489,Yaniv,Kahlon,male,1947-10-20,Kibbutz Nahsholim,16,112,58,1,1,0,1,0,1
+275784531,Leah,Darmon,female,1939-10-11,Kibbutz Ein Gev,30,126,77,0,1,0,0,1,0
+363218622,Yosef,Golan,male,2001-01-28,Kibbutz Sde Eliyahu,17,88,88,1,1,1,0,1,0
+211916391,Galit,Golan,female,2001-02-25,Kibbutz Ein Harod,25,105,63,0,1,0,0,0,0
+395453277,Doron,Hakim,male,1956-07-08,Kibbutz Sde Eliyahu,19,86,94,0,1,1,0,0,1
+218347590,Miri,Elmaliah,female,2008-06-27,Kibbutz Ma'agan Michael,22,117,68,0,1,1,1,1,1
+212593122,Reuven,Dahan,male,1921-07-19,Kibbutz Sde Eliyahu,17,121,83,0,1,1,1,0,1
+373485056,Rachel,Nissan,female,1971-02-20,Kibbutz Sde Boker,27,137,85,0,1,0,0,0,0
+252883933,Yehoshua,Sharabi,male,1996-10-04,Kibbutz Ein Gev,27,111,68,0,1,0,0,1,0
+234259443,Natalie,Sarusi,female,1980-10-09,Kibbutz Sde Nahum,21,111,72,1,1,0,1,1,0
+244108559,Hillel,Shamama,male,1923-04-01,Kibbutz Ein Gev,16,82,77,0,1,1,0,0,1
+333048595,Tova,Yaron,female,1948-09-19,Kibbutz Beit HaEmek,15,122,67,0,1,0,1,0,1
+282334875,Meir,Zrihan,male,1964-07-05,Kibbutz Ma'agan Michael,18,115,67,0,1,0,0,1,1
+323377349,Chana,Biran,female,1983-09-22,Kibbutz Yotvata,28,136,69,0,1,0,1,1,3
+379593002,Yitzhak,Salomon,male,1964-04-04,Kibbutz Sde Eliyahu,25,94,83,1,1,1,1,1,1
+364267805,Noga,Kahana,female,1928-06-11,Kibbutz Sde Nahum,18,139,68,0,1,0,0,1,0
+378667163,Yehuda,Rosenberg,male,1941-11-15,Kibbutz Ein Harod,29,99,63,1,1,0,0,1,1
+240488072,Hadar,Saidoff,female,1928-10-30,Kibbutz Ein Gev,29,82,69,1,1,1,1,1,1
+305643250,Yoni,Shamama,male,2016-06-01,Kibbutz Sde Boker,21,98,107,0,1,1,0,0,1
+275972318,Ruth,Malka,female,1935-06-14,Kibbutz Ma'agan Michael,24,111,102,0,1,0,1,1,0
+383268983,Zohar,Shabi,male,1941-07-03,Kibbutz Ma'agan Michael,28,83,70,0,1,1,0,0,0
+230154464,Hila,Shitrit,female,1924-07-23,Kibbutz Nahsholim,18,98,85,1,1,0,1,0,0
+218355337,Shimon,Alouf,male,1945-11-08,Kibbutz Nahsholim,19,121,108,1,1,1,1,1,0
+392208277,Neta,Kaslassi,female,1975-10-30,Kibbutz Sde Boker,16,138,83,1,1,1,0,0,0
+395219829,Amir,Timsit,male,1951-09-12,Kibbutz Givat Brenner,29,108,111,0,1,1,1,1,0
+212251848,Rachel,Biton,female,1994-04-09,Kibbutz Sde Nahum,28,115,102,0,1,0,0,0,1
+370498350,Yoni,Zrihan,male,1975-08-26,Kibbutz Givat Brenner,22,96,83,0,1,1,1,0,1
+262829345,Dalit,Avraham,female,1971-09-27,Kibbutz Sde Eliyahu,30,104,117,0,1,0,0,0,1
+341809566,Aviad,Kasirer,male,1959-05-27,Kibbutz Nahsholim,29,98,69,0,1,0,0,0,1
+260863111,Dalit,Asulin,female,1975-03-26,Kibbutz Yotvata,24,86,77,0,1,1,0,0,0
+382754897,Reuven,Lavie,male,1921-07-05,Kibbutz Yotvata,30,83,63,0,1,1,1,0,0
+393918687,Miri,Saidoff,female,1941-07-17,Kibbutz Yotvata,15,84,111,1,1,1,1,1,0
+215766798,Shai,Marom,male,1923-05-19,Kibbutz Ein Gev,24,86,102,1,1,1,0,0,1
+205341092,Nurit,Shoshan,female,1935-01-16,Kibbutz Ma'agan Michael,19,96,107,0,1,0,0,0,1
+353169590,Yair,Kaplan,male,2012-03-10,Kibbutz Yotvata,15,101,72,1,1,1,0,1,2
+359650888,Dikla,Yerushalmi,female,1955-12-18,Kibbutz Sde Eliyahu,26,104,102,0,1,1,1,0,1
+272837206,David,Golan,male,1969-10-09,Kibbutz Ma'agan Michael,22,104,108,1,1,1,1,0,0
+300113063,Anat,Saidoff,female,1963-02-03,Kibbutz Ein Harod,21,132,117,0,1,1,0,0,0
+270236601,Yehoshua,Bokobza,male,1947-08-16,Kibbutz Ein Harod,23,101,74,0,1,1,1,1,1
+211593240,Yiska,Lerner,female,1963-08-04,Kibbutz Ein Gev,30,94,77,1,1,1,1,1,0
+297555235,Haim,Cohen,male,1971-01-01,Kibbutz Beit HaEmek,28,84,116,1,1,1,1,1,0
+290544046,Dikla,Kasirer,female,1931-06-16,Kibbutz Sde Nahum,22,86,92,0,1,1,1,1,1
+221679341,Nir,Cohen,male,1996-03-19,Kibbutz Sde Nahum,17,139,110,0,1,1,0,1,0
+289820361,Natalie,Yehudai,female,2017-11-18,Kibbutz Sde Eliyahu,30,132,107,0,1,0,1,0,0
+315248037,Reuven,Alfasi,male,1937-07-30,Kibbutz Ma'agan Michael,17,94,106,0,1,1,1,1,1
+369991552,Shira,Elmaliah,female,1950-08-23,Kibbutz Givat Brenner,25,112,107,1,1,0,1,1,1
+301724555,Avraham,Abuhatzira,male,1976-08-31,Kibbutz Ma'agan Michael,22,108,101,0,1,0,0,0,1
+287025221,Tzipora,Biran,female,2019-12-01,Kibbutz Beit HaEmek,21,101,78,1,1,1,1,0,1
+223137623,Ariel,Kohn,male,2010-07-04,Kibbutz Nahsholim,28,101,74,0,1,1,1,1,0
+296304940,Noa,Salomon,female,1920-05-06,Kibbutz Ma'agan Michael,19,117,107,1,1,1,0,1,1
+321258655,Yoni,Golan,male,1953-10-10,Kibbutz Givat Brenner,22,91,63,0,1,1,1,0,0
+268624999,Efrat,Abuhatzira,female,1983-04-26,Kibbutz Sde Nahum,28,91,93,0,1,0,0,1,1
+290141794,Haim,Shiloni,male,1956-01-24,Kibbutz Sde Eliyahu,22,86,101,1,1,0,0,0,0
+327857524,Maya,Rosenberg,female,1965-03-16,Kibbutz Ma'agan Michael,16,104,80,1,1,1,1,1,2

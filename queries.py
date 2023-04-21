@@ -4,7 +4,7 @@ Omer ,Doron, Yuval lung_cancer information system
 
 """
 dbName = "lung_cancer"
-from Initialization.serever_initalziation_original import *
+from serever_initalziation_original import *
 import pandas as pd
 
 

@@ -5,10 +5,10 @@ import pandas as pd
 import random
 #import numpy as np
 
-files = ['real_doctors.csv', 'patienet_new.csv', 'patients_procedures.csv', 'procedures_new.csv']
-patient = pd.read_csv("patienet_new.csv")
+files = ['real_doctors.csv', 'patient_new for data creation.csv', 'patients_procedures.csv', 'procedures_new.csv']
+patient = pd.read_csv("patient_new for data creation.csv")
 procedures = pd.read_csv("procedures_new.csv")
-patients_procedures = pd.read_csv("patients_procedures.csv")
+patients_procedures = pd.read_csv("patients_procedures for data creation.csv")
 doctors = pd.read_csv("real_doctors.csv")
 
 cities = ["Jerusalem", "Tel Aviv-Yafo", "Haifa", "Rishon LeZion", "Petah Tikva", "Ashdod", "Netanya", "Be'er Sheva",

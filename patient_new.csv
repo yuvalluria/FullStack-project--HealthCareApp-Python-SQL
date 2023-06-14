@@ -1,4 +1,4 @@
-patient_id,first_name,last_name,gender,date_of_birth,Cities,BMI,BP_SYS,BP_Dia,COPD,smoking,hereditary_retinoblastoma,Tuberculosis,Pulmonary_fibrosis,sick
+patient_id,first_name,last_name,gender,date_of_birth,Cities,BMI,BP_SYS,BP_Dia,COPD,smoking,Cardiovascular,Tuberculosis,Pulmonary_fibrosis,sick
 387816646,Eli,Khalifa,male,1969-07-13,Haifa,15,104,58,0,0,0,0,0,0
 236614313,Yiska,Moyal,female,1946-10-03,Rishon_LeZion,15,121,102,1,1,0,0,1,0
 347864617,Aharon,Yerushalmi,male,1990-01-22,Jerusalem,24,96,77,0,1,0,0,1,0

@@ -64,7 +64,7 @@ def connect2serverDB(database=db):
     con = mysql.connector.connect(host=host,
                                   user=user,
                                   passwd=passward,
-                                  database=db.upper())
+                                  database='lung_cancer')
     cursor = con.cursor()
     return cursor, con
 
@@ -165,14 +165,14 @@ def addFKs(table):
 # main execution from here:
 # form a connection to server
 def main():
-    connect2server(usr='root', passwd='12345', hst="localhost", prt=3306)
+    connect2server(usr='root', passwd='ASD546777qwq!?$', hst="localhost", prt=3306)
     # initiate a database
     initDB("lung_cancer")
     # read csv file into table object
-    tables = [Table("Doctors", "real_doctors.csv", pks=["doctor_id"]),
-              Table("Patients", "patient_new.csv", pks=["patient_id"]),
-              Table("proceadures", "procedures_new.csv", pks=["id_procedure"]),
-              Table("patients_procedures", "patient_procedures.csv",
+    tables = [Table("Doctors", "../real_doctors.csv", pks=["doctor_id"]),
+              Table("Patients", "../patient_new.csv", pks=["patient_id"]),
+              Table("proceadures", "../procedures_new.csv", pks=["id_procedure"]),
+              Table("patients_procedures", "../patient_procedures.csv",
                     pks=["patient_id", "procedure_date", "id_procedure"],
                     fks=[["patient_id"], ["doctor_id"], ["id_procedure"]],
                     ref_tables=["Patients", "Doctors", "proceadures"],
